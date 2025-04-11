@@ -2,7 +2,7 @@
 title = "Zilla’s Shopping List & Weekly Menu"
 +++
 
-**Shopping list**
+# **Shopping list**
 - Peanut butter
 
 - Jam
@@ -51,8 +51,6 @@ title = "Zilla’s Shopping List & Weekly Menu"
 
 - Canned minestrone soup (two cans)
 
-
-
 - Canned lentils
 
 - Canned black beans
@@ -61,13 +59,14 @@ title = "Zilla’s Shopping List & Weekly Menu"
 
 - Plantains
 
-**Weekly Menu**
+# **Weekly Menu**
 ## _Monday_
 ### Breakfast:
 Toast with peanut butter and jam.
 ### Lunch:
 Ramen with no sides made using the work kettle.
-### Dinner: Lentils in a pot with curry powder, served over couscous. Make
+### Dinner:
+ Lentils in a pot with curry powder, served over couscous. Make
 enough for leftovers.
 
 ## _Tuesday_
