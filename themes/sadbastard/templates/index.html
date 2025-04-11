@@ -3,27 +3,29 @@
 {% block title %}{{ config.title }}{% endblock title %}
 
 {% block content %}
-    <article>
-        <header>
-            <h1>{{ section.title }}</h1>
-        </header>
+    <main>
+        <article>
+            <header>
+                <h1>{{ section.title }}</h1>
+            </header>
 
-        {{ section.content | safe }}
+            {{ section.content | safe }}
 
-        <nav>
-            <ul>
-                <li><a href="https://traumbooks.itch.io/the-sad-bastard-cookbook" role="button">Download PDF Version</a></li>
-                <li><a href="https://mybook.to/MIUiKB" role="button">Buy Print Copy</a></li>
-                <li><a href="https://nightbeatseu.ca/works/the-sad-bastard-cookbook/" role="button">Visit Author Homepage</a></li>
-                {% set toc = get_page(path="toc.md") %}
-                {% if toc %}
-                    <li><a href="{{ toc.permalink }}" role="button">View Table of Contents</a></li>
-                {% endif %}
-                {% set pdf = get_page(path="pdf.md") %}
-                {% if pdf %}
-                    <li><a href="{{ pdf.permalink }}" role="button">View PDF Version</a></li>
-                {% endif %}
-            </ul>
-        </nav>
-    </article>
+            <nav>
+                <ul>
+                    <li><a href="https://traumbooks.itch.io/the-sad-bastard-cookbook">Download PDF Version</a></li>
+                    <li><a href="https://mybook.to/MIUiKB">Buy Print Copy</a></li>
+                    <li><a href="https://nightbeatseu.ca/works/the-sad-bastard-cookbook/">Visit Author Homepage</a></li>
+                    {% set toc = get_page(path="toc.md") %}
+                    {% if toc %}
+                        <li><a href="{{ toc.permalink }}">View Table of Contents</a></li>
+                    {% endif %}
+                    {% set pdf = get_page(path="pdf.md") %}
+                    {% if pdf %}
+                        <li><a href="{{ pdf.permalink }}">View PDF Version</a></li>
+                    {% endif %}
+                </ul>
+            </nav>
+        </article>
+    </main>
 {% endblock content %}

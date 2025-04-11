@@ -2,50 +2,32 @@
 <html lang="{{ config.default_language | default(value='en') }}">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=width=device-width, initial-scale=1">
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
     <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.fluid.classless.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css">
     {% block extra_head %}{% endblock extra_head %}
 </head>
 <body>
     <header>
         <nav>
-            {% if current_path != "/" %}
-                <a href="{{ config.base_url | safe }}">Home</a>
+            {% if current_path != "toc.md" %}
+                <a href="{{ get_page(path='toc.md').permalink }}">Contents</a>
             {% endif %}
 
-            {% set section = get_section(path="_index.md") %}
-            {% set pages = section.pages %}
-            {% for page in pages %}
-                {% if current_url == page.permalink %}
-                    {% set page_index = loop.index0 %}
-                    {% set prev_page = pages | slice(end=page_index) | last %}
-                    {% set next_page = pages | slice(start=page_index + 1) | first %}
-                {% endif %}
-            {% endfor %}
-
-            {% set toc_page = get_page(path="toc.md") %}
+            {% if current_path == "toc.md" %}
+                <a href="{{ config.base_url | safe }}">Home</a>
+            {% endif %}
         </nav>
     </header>
 
     <main>
         {% block content %}{% endblock content %}
 
-        {% if current_path != "/" and current_path != "toc.md" %}
+        {% if current_path != "toc.md" %}
             <nav>
                 <ul>
-                    {% if prev_page %}
-                        <li><a href="{{ prev_page.permalink }}" role="button">← {{ prev_page.title }}</a></li>
-                    {% endif %}
-
-                    {% if toc_page %}
-                        <li><a href="{{ toc_page.permalink }}" role="button">↑ Contents</a></li>
-                    {% endif %}
-
-                    {% if next_page %}
-                        <li><a href="{{ next_page.permalink }}" role="button">{{ next_page.title }} →</a></li>
-                    {% endif %}
+                    <li><a href="{{ get_page(path='toc.md').permalink }}" role="button">↑ Contents</a></li>
                 </ul>
             </nav>
         {% endif %}
