@@ -3,11 +3,11 @@
 {% block title %}{{ config.title }}{% endblock title %}
 
 {% block content %}
-    {% set cover_page = get_page(path="00_Preface.md") %}
-    {% if cover_page %}
-        {{ cover_page.content | safe }}
-    {% else %}
-        <h1>Welcome to {{ config.title }}</h1>
-        <p>Cover page not found at '00_Preface.md'.</p>
+    <h1>{{ section.title }}</h1>
+    {{ section.content | safe }}
+
+    {% set toc = get_page(path="toc.md") %}
+    {% if toc %}
+        <p><a href="{{ toc.permalink }}" class="button">View Table of Contents</a></p>
     {% endif %}
 {% endblock content %}

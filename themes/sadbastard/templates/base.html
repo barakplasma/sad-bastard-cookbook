@@ -9,45 +9,55 @@
     {% block extra_head %}{% endblock extra_head %}
 </head>
 <body>
-    <aside id="sidebar">
-        <h2><a href="{{ config.base_url | safe }}">{{ config.title }}</a></h2>
+    <header>
         <nav>
-            <ul>
-                {# Link to the Home/Cover page #}
-                <li><a href="{{ config.base_url | safe }}" class="{% if current_path == '/' %}active{% endif %}">Cover</a></li>
+            {% if current_path != "/" %}
+                <a href="{{ config.base_url | safe }}" title="Home">{{ config.title }}</a>
+            {% endif %}
 
-                {# Link to the automatically generated ToC page #}
-                {% set toc_page = get_page(path="toc.md") %}
-                {% if toc_page %}
-                    <li><a href="{{ toc_page.permalink | safe }}" class="{% if current_url == toc_page.permalink %}active{% endif %}">Table of Contents</a></li>
+            {% set section = get_section(path="_index.md") %}
+            {% set pages = section.pages %}
+            {% for page in pages %}
+                {% if current_url == page.permalink %}
+                    {% set page_index = loop.index0 %}
+                    {% set prev_page = pages | slice(end=page_index) | last %}
+                    {% set next_page = pages | slice(start=page_index + 1) | first %}
+                {% endif %}
+            {% endfor %}
+
+            {% if prev_page %}
+                <a href="{{ prev_page.permalink }}" title="Previous: {{ prev_page.title }}">← Previous</a>
+            {% endif %}
+
+            {% set toc_page = get_page(path="toc.md") %}
+            {% if toc_page %}
+                <a href="{{ toc_page.permalink }}" title="Table of Contents">Contents</a>
+            {% endif %}
+
+            {% if next_page %}
+                <a href="{{ next_page.permalink }}" title="Next: {{ next_page.title }}">Next →</a>
+            {% endif %}
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}{% endblock content %}
+
+        {% if current_path != "/" and current_path != "toc.md" %}
+            <nav class="page-nav">
+                {% if prev_page %}
+                    <a href="{{ prev_page.permalink }}" title="Previous: {{ prev_page.title }}">← {{ prev_page.title }}</a>
                 {% endif %}
 
-                {# Separator #}
-                <li style="margin-top: 10px; margin-bottom: 10px; border-top: 1px dashed var(--sidebar-border);"></li>
+                {% if toc_page %}
+                    <a href="{{ toc_page.permalink }}" title="Table of Contents">↑ Contents</a>
+                {% endif %}
 
-                {# Get main content section (assuming content files are directly under /content) #}
-                {% set content_section = get_section(path="_index.md") %}
-
-                {# Iterate through pages, sorted by filename (due to numbering) #}
-                {% for page in content_section.pages %}
-                    {# Exclude the Cover page and the special ToC page file from this list #}
-                    {% if page.relative_path != "00_Preface.md" and page.relative_path != "toc.md" %}
-                        <li>
-                            <a href="{{ page.permalink | safe }}" class="{% if current_url == page.permalink %}active{% endif %}">
-                                {# Clean up title for display #}
-                                {{ page.title | trim_start_matches(pat="^[0-9]+_") | replace(from="_", to=" ") | replace(from="-", to=" ") | title }}
-                            </a>
-                        </li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        </nav>
-    </aside>
-
-    <main id="main-content">
-        {% block content %}
-            {# Default content if block is not overridden #}
-        {% endblock content %}
+                {% if next_page %}
+                    <a href="{{ next_page.permalink }}" title="Next: {{ next_page.title }}">{{ next_page.title }} →</a>
+                {% endif %}
+            </nav>
+        {% endif %}
     </main>
 
     {% block body_script %}{% endblock body_script %}

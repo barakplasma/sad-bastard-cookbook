@@ -1,23 +1,20 @@
 {% extends "base.html" %}
 
-{% block title %}Table of Contents | {{ config.title }}{% endblock title %}
+{% block title %}Table of Contents - {{ config.title }}{% endblock %}
 
 {% block content %}
     <h1>Table of Contents</h1>
-
-    {% set content_section = get_section(path="_index.md") %}
-
-    <ol style="font-family: var(--font-heading); line-height: 1.8;">
-        {% for page in content_section.pages %}
-            {# Exclude the Cover page and the special ToC page file #}
-             {% if page.relative_path != "00_Preface.md" and page.relative_path != "toc.md" %}
-                 <li>
-                     <a href="{{ page.permalink | safe }}">
-                         {# Clean up title for display #}
-                         {{ page.title | trim_start_matches(pat="^[0-9]+_") | replace(from="_", to=" ") | replace(from="-", to=" ") | title }}
-                     </a>
-                 </li>
-             {% endif %}
-         {% endfor %}
-     </ol>
+    
+    {% set section = get_section(path="_index.md") %}
+    {% if section.pages %}
+        <nav>
+            {% for page in section.pages %}
+                {% if not page.path == "toc.md" %}
+                    <p>
+                        <a href="{{ page.permalink }}">{{ page.title }}</a>
+                    </p>
+                {% endif %}
+            {% endfor %}
+        </nav>
+    {% endif %}
 {% endblock content %}
