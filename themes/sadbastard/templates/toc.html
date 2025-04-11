@@ -3,18 +3,24 @@
 {% block title %}Table of Contents - {{ config.title }}{% endblock %}
 
 {% block content %}
-    <h1>Table of Contents</h1>
-    
-    {% set section = get_section(path="_index.md") %}
-    {% if section.pages %}
-        <nav>
-            {% for page in section.pages %}
-                {% if not page.path == "toc.md" %}
-                    <p>
-                        <a href="{{ page.permalink }}">{{ page.title }}</a>
-                    </p>
-                {% endif %}
-            {% endfor %}
-        </nav>
-    {% endif %}
+    <article>
+        <header>
+            <h1>Table of Contents</h1>
+        </header>
+        
+        {% set section = get_section(path="_index.md") %}
+        {% if section.pages %}
+            <nav>
+                <ul>
+                    {% for page in section.pages %}
+                        {% if not page.path == "toc.md" %}
+                            <li>
+                                <a href="{{ page.permalink }}">{{ page.title }}</a>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </nav>
+        {% endif %}
+    </article>
 {% endblock content %}

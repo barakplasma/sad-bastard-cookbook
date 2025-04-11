@@ -3,11 +3,16 @@
 {% block title %}{{ config.title }}{% endblock title %}
 
 {% block content %}
-    <h1>{{ section.title }}</h1>
-    {{ section.content | safe }}
+    <article>
+        <header>
+            <h1>{{ section.title }}</h1>
+        </header>
 
-    {% set toc = get_page(path="toc.md") %}
-    {% if toc %}
-        <p><a href="{{ toc.permalink }}" class="button">View Table of Contents</a></p>
-    {% endif %}
+        {{ section.content | safe }}
+
+        {% set toc = get_page(path="toc.md") %}
+        {% if toc %}
+            <p><a href="{{ toc.permalink }}" role="button">View Table of Contents</a></p>
+        {% endif %}
+    </article>
 {% endblock content %}
