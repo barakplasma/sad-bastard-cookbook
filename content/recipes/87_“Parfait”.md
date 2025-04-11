@@ -5,6 +5,7 @@ tags = ["vegetarian", "dessert", "quick", "fruit", "yogurt", "layered"]
 +++
 
 **Core Ingredients**
+
 - Yogurt
 
 - Store-bought cookies (or biscuits if you’re Irish)
@@ -12,6 +13,7 @@ tags = ["vegetarian", "dessert", "quick", "fruit", "yogurt", "layered"]
 - Jam
 
 **Preparation**
+
 - Add yogurt and jam to your bowl.
 
 - Crumble up cookies on top.
@@ -19,6 +21,7 @@ tags = ["vegetarian", "dessert", "quick", "fruit", "yogurt", "layered"]
 - Eat with a spoon.
 
 **Variations**
+
 - Defrost frozen fruit in the microwave and use that instead of jam.
 
 - Or use fresh fruit.

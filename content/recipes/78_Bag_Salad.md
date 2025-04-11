@@ -9,12 +9,14 @@ fridge. Salad greens go bad fast. You probably went to the
 grocery store recently to cook this.
 
 **Core Ingredients and Supplies**
+
 - Pre-chopped lettuce or other salad greens. These usually come in a bag.
 
 - Salad dressing. Some bags of salad come with a salad dressing inside.
-That’s one less decision you have to make.
+  That’s one less decision you have to make.
 
 **Preparation I**
+
 - Put salad greens onto the plate or into the bowl you plan to eat from.
 
 - Add toppings as desired.
@@ -22,6 +24,7 @@ That’s one less decision you have to make.
 - Pour on salad dressing.
 
 **Preparation II: Elite Salad Hack**
+
 - Shove lettuce and toppings into a Ziploc bag.
 
 - Add dressing.
@@ -33,6 +36,7 @@ That’s one less decision you have to make.
 - Consume. The contents, not the bag.
 
 **Variations**
+
 - Add nuts.
 
 - Add seeds.
@@ -52,19 +56,19 @@ is the nature of
 time and reality?
 ```
 
-
 - Add cheese. Feta, blue cheese, or cheddar are tops in salad.
 
 - Add black beans, guacamole, and salsa to make a taco salad.
 
 - If you’re feeling fancy, chop up whatever fresh vegetables are in the
-fridge.
+  fridge.
 
 **God-Tier**
+
 - Pour olive oil over the salad, then pour any vinegar over the salad**.** Voilà!
-Homemade salad dressing. _Pre-mixing the salad dressing by shaking the
-components together in a jar is nice, but unnecessary. And you’d need to wash
-the jar._
+  Homemade salad dressing. _Pre-mixing the salad dressing by shaking the
+  components together in a jar is nice, but unnecessary. And you’d need to wash
+  the jar._
 
 - This also works with lemon juice instead of vinegar.
 

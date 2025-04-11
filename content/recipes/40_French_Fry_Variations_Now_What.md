@@ -8,6 +8,7 @@ So you’ve got fries, or hash brown, or tater tots. Now you’re ready to take
 dinner to the next level.
 
 **Core Ingredients**
+
 - Cooked fries or other potato-type-substances
 
 - Courage
@@ -22,6 +23,7 @@ When you’re adding the salt, you can add spices too.
 - Chipotle powder
 
 **Variations: Dip in Sauce**
+
 - Ketchup
 
 - Mayonnaise
@@ -41,6 +43,7 @@ When you’re adding the salt, you can add spices too.
 - Hummus
 
 **Variations: Put Stuff on Top**
+
 - Vinegar. Malt or white vinegar are traditional.
 
 ```
@@ -48,24 +51,25 @@ True facts; we asked
 a jar of relish.
 ```
 
-
 - Microwave baked beans from a can and pour them on top.
 
 - Put shredded cheddar cheese on top. Or other cheese.
 
 - Fry an egg and put it on top. See _The Humble Egg_ for cook-
-ing advice.
+  ing advice.
 
 - Fried mushrooms and onions. These pair well with mush-
-room gravy from a tin.
+  room gravy from a tin.
 
 **Stuff on Top of Fries Variations: Not-Poutine & Not-Disco Fries**
+
 - Microwave mushroom gravy from a can.
 
 - Cheese. Cheese curds if you want to call this “poutine,” and American
-cheese slices if you want to call this “disco fries.”
+  cheese slices if you want to call this “disco fries.”
 
 **Stuff on Top of Fries Variations: Not-Potatas Bravas**
+
 - Tomato-based pasta sauce
 
 - Jalapenos from the jar
@@ -73,6 +77,7 @@ cheese slices if you want to call this “disco fries.”
 - Cheese
 
 **Stuff on Top of Fries Variations: Not-chos**
+
 - Black beans or refried beans, heated in the microwave.
 
 - Salsa
@@ -90,7 +95,7 @@ These can be made with any type of frozen potato substance, but they’re
 traditional with potato waffles (a.k.a. waffle fries).
 
 - Fry two potato waffles in the frying pan with a little oil until cooked. You
-want enough oil so all of the bottom of the waffle is touching oil, but not
+  want enough oil so all of the bottom of the waffle is touching oil, but not
 
 ```
 Our lawyers
@@ -112,8 +117,9 @@ crispy without the bottom side turning to charcoal. If they turn black and
 your fire alarm goes off, you left them too long. We’ve all been there, and we are
 sorry for your potato loss. You can make a new batch or eat something else.
 ```
+
 - Break the egg on top of the waffles and spread around so the egg goes
-into the holes.
+  into the holes.
 
 - Flip over.
 

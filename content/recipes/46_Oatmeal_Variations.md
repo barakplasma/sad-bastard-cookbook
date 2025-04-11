@@ -5,13 +5,15 @@ tags = ["vegetarian", "breakfast", "oatmeal", "quick", "healthy", "customizable"
 +++
 
 **Core Ingredients**
+
 - Instant oatmeal
 
 - Boiling water
 
 **Preparation**
+
 - Take a single-serving package of instant oatmeal. Realistically, take two
-of them at once.
+  of them at once.
 
 - Pour into a bowl.
 
@@ -24,8 +26,9 @@ of them at once.
 - Enjoy?
 
 **Mid-Tier Preparation**
+
 - You can buy a full bag of instant oatmeal, you don’t have to buy it in
-single-serve packs.
+  single-serve packs.
 
 - You have to add your own flavourings and measure out servings.
 
@@ -45,8 +48,6 @@ Add some or all of these to cooked oatmeal.
 - Peanut butter
 
 - Nuts
-
-
 
 - Seeds
 

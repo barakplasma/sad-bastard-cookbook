@@ -6,6 +6,7 @@ Almost any leftovers can be turned into a wrap, and you’ve magically created
 a different meal than you ate for the last four days.
 
 **Core Ingredients**
+
 - Tortillas or wraps, whatever was cheapest
 
 - Anything at all to put inside
@@ -49,7 +50,6 @@ You can roll just about anything into a wrap. Classics include:
 Though we advise
 against soup.
 ```
-
 
 **Preparation II: The Spiral**
 Any spreads which are good on _Toast Variations_ are good on wraps. If you

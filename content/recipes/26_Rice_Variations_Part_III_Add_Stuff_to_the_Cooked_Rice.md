@@ -6,8 +6,9 @@ These can be made with fresh rice, or leftover rice you heat up in the
 microwave.
 
 **Core Ingredients**
+
 - Rice (see _Rice Variations Part I_ & _Part II_ for cooking instructions and fla-
-vouring ideas)
+  vouring ideas)
 
 **Variations: Flavouring**
 It’s hard to know what to say here. Rice goes with most sauces. Whatever
@@ -19,7 +20,7 @@ classics to start you off.
 - Sesame oil (combines well with soy sauce)
 
 - Any bottle of stir fry sauce. Teriyaki. Hoisin. Black bean. Anything. Mix
-and match.
+  and match.
 
 - Laoganma chili oil
 
@@ -32,11 +33,12 @@ and match.
 - Hummus
 
 - Scoop in some butter or margarine with a fork. Bonus: you can then eat
-the rice straight out of the cooker with that buttery fork.
+  the rice straight out of the cooker with that buttery fork.
 
 **Variations: Stuff**
+
 - Frozen vegetables. Defrost your vegetables of choice in the microwave
-and add.
+  and add.
 
 ```
 Note that vindaloo is
@@ -47,9 +49,8 @@ tra chilis in it for spice
 fiends like Rachel.
 ```
 
-
 - Canned beans. As always, drained and rinsed. _We talk about this in_ Bean
-Salad_. Skip ahead. Break the rules._
+  Salad*. Skip ahead. Break the rules.*
 
 - Canned vegetables.
 
@@ -58,16 +59,17 @@ Salad_. Skip ahead. Break the rules._
 - Nuts and seeds.
 
 **Mid-Tier Variations**
+
 - Fresh vegetables, raw. Chunks of fresh tomatoes are really tasty mixed
-with rice, olive oil, and sea salt. Canned chickpeas would be good here
-too.
+  with rice, olive oil, and sea salt. Canned chickpeas would be good here
+  too.
 
 - Fresh vegetables, cooked. Whatever is in the fridge or pantry. Chop some
-zucchini or carrots, put them in a bowl with a little water in the bottom
-and microwave them. Or fry some mushrooms and onions.
+  zucchini or carrots, put them in a bowl with a little water in the bottom
+  and microwave them. Or fry some mushrooms and onions.
 
 - A humble egg. See _The Humble Egg_ for cooking instructions for fried,
-scrambled, and hard-boiled. Any of these go well with rice.
+  scrambled, and hard-boiled. Any of these go well with rice.
 
 - Cheese.
 

@@ -11,11 +11,13 @@ Most of the things that go well with rice or noodles will also taste good with
 couscous. Our personal favourite is to add Moroccan-style flavourings.
 
 **Core Ingredients**
+
 - Couscous
 
 - Boiling water
 
 **Preparation**
+
 - Boil the kettle.
 
 - Put some couscous in a bowl.
@@ -23,19 +25,19 @@ couscous. Our personal favourite is to add Moroccan-style flavourings.
 - Add boiling water until it just covers the couscous + maybe 1 millimetre.
 
 - Cover the bowl, maybe.
-_You can cover the bowl in
-cling wrap to keep the heat
-in, if you can find the end of
-the cling wrap on the roll.
-Sounds unlikely. Put a plate
-on the top instead, if you’ve
-got a clean plate. Fuck it.
-Don’t put anything on it.
-It’ll cook well enough._
+  _You can cover the bowl in
+  cling wrap to keep the heat
+  in, if you can find the end of
+  the cling wrap on the roll.
+  Sounds unlikely. Put a plate
+  on the top instead, if you’ve
+  got a clean plate. Fuck it.
+  Don’t put anything on it.
+  It’ll cook well enough._
 
 - Wait until the water
-looks like it’s absorbed,
-then fluff it with a fork.
+  looks like it’s absorbed,
+  then fluff it with a fork.
 
 - Consume.
 
@@ -45,7 +47,6 @@ and/or American, a millimetre is
 the smallest unit of measurement
 that you can actually see.
 ```
-
 
 **Mid-Tier: Moroccan Style**
 Add some or all of these ingredients, depending on what’s in your kitchen.

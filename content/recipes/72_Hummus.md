@@ -8,6 +8,7 @@ Hummus is awesome because it tastes good, it’s highly portable, and it’s eve
 healthy and full of protein.
 
 **Core Ingredients**
+
 - Hummus from the store.
 
 - Carrots. Baby carrots or adult carrots: the choice is yours.
@@ -21,11 +22,12 @@ them is good—dirt has a terrible texture.
 - Eat.
 
 **Variations**
+
 - If you are feeling more ambitious, there are other vegetables to dip into
-the hummus. Peppers. Celery, if you must.
+  the hummus. Peppers. Celery, if you must.
 
 - Add a dash of olive oil and a spice like thyme or chili to the top of your
-hummus to be a Fancy Sad Bastard.
+  hummus to be a Fancy Sad Bastard.
 
 - Dip cheese into hummus.
 
@@ -34,10 +36,10 @@ hummus to be a Fancy Sad Bastard.
 - Spread hummus on bread or toast.
 
 - Use hummus as a sauce over pasta
-or rice.
+  or rice.
 
 - Hummus is also great eaten off a
-spoon standing in front of the fridge.
+  spoon standing in front of the fridge.
 
 ```
 You can buy it discounted from the store

@@ -7,11 +7,13 @@ more forgiving than bananas, which are kinda gross if you forget about them and
 they go black._
 
 **Core Ingredients**
+
 - Plantains
 
 - Butter or margarine or cooking oil
 
 **Preparation**
+
 - Peel and slice the plantain.
 
 - Add the butter to a frying pan.

@@ -3,45 +3,49 @@ title = "Apple Slices Yes"
 +++
 
 **Core Ingredients**
+
 - Apples
 
 **Preparation**
+
 - Quarters is the fewest number of cuts you can make and still easily re-
-move the core.
+  move the core.
 
 - You can cut it into more pieces if you want to.
 
 - If you’re only gonna cut the apple into halves, you might as well just eat
-the whole apple as is.
+  the whole apple as is.
 
 - If you’re lucky enough to have an apple corer/slicer device, you basically
-won the apple-eating lottery.
+  won the apple-eating lottery.
 
 **Variations**
+
 - Spread with peanut butter in the ratio most
-appealing to you and consume. Or use a
-spoon or melon baller to scoop the seeds out
-and stuff the peanut butter in where they
-were—if you do this, you can get away with
-only cutting the apple into halves.
+  appealing to you and consume. Or use a
+  spoon or melon baller to scoop the seeds out
+  and stuff the peanut butter in where they
+  were—if you do this, you can get away with
+  only cutting the apple into halves.
 
 - Cheese has an added slicing step, unless you
-buy the pre-sliced packs, which some people
-do.
+  buy the pre-sliced packs, which some people
+  do.
 
 - Either of those could also be combined with
-crackers.
+  crackers.
 
 - Sprinkle cinnamon on top.
 
 - Other sliceable fruits, such as pears or peach-
-es, can be enjoyed in similar manners.
+  es, can be enjoyed in similar manners.
 
 ```
 By popular demand, we are including apple
 slices as its own recipe instead of as a
 recipe variation. The people have spoken.
 ```
+
 ```
 This cooking instruction is
 surprisingly controversial.

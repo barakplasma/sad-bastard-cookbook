@@ -5,6 +5,7 @@ tags = ["vegetarian", "quesadilla", "quick", "cheese", "customizable"]
 +++
 
 **Core Ingredients**
+
 - A quesadilla or pumpki-dilla (see previous recipe)
 
 **Variations: Dip it in Sauce**
@@ -18,12 +19,13 @@ recipe.
 - Sour cream or yogurt.
 
 - Sour cream or yogurt that you’ve mixed with spices. We recommend
-some of these: salt, garlic powder, onion powder, cumin, paprika, chili
-powder, cayenne.
+  some of these: salt, garlic powder, onion powder, cumin, paprika, chili
+  powder, cayenne.
 
 - Hummus
 
 **Variations: Add Stuff Inside the Quesadilla**
+
 - Black beans out of a can
 
 - Refried beans scooped out of a can and spread onto the tortilla.

@@ -13,6 +13,7 @@ _Remember that time is an illusion, lunchtime doubly so, and you can eat pancake
 any meal_.
 
 **Core Ingredients**
+
 - Cooking oil or butter or margarine
 
 - Flour
@@ -35,8 +36,11 @@ quantities you like best in the margins. Personalize this book._
 - Mix together:
 
 # Flour (100 g)
+
 # Water (300 g a.k.a. 300 mL)
+
 # 1 raw egg
+
 until they turn into pancake batter.
 
 ```
@@ -46,33 +50,45 @@ that crashed into the
 asteroid in Alinda.
 ```
 
-
 **Preparation II: “Two of Everything” Fluffy Pancakes**
+
 - Mix together:
 
 # Flour (2 cups)
+
 # Water (2 cups)
+
 # Baking powder (2 teaspoons)
+
 # 2 raw eggs
+
 until they turn into pancake batter.
+
 - Let it sit for a few minutes for the baking powder to do its thing. _Make
-yourself a cup of coffee._
+  yourself a cup of coffee._
 
 **Preparation III: “Even Fluffier” Fluffy Pancakes (Can be Veganized)**
+
 - Mix together:
 
 # Flour (2 cups)
+
 # Water (1.5 cups)
+
 # Baking powder (3 teaspoons)
+
 # 2 raw eggs (optional)
+
 # Dollop of vegetable oil
+
 until they turn into pancake batter.
+
 - Let it sit for a few minutes for the baking powder to do its thing. _Make
-yourself a cup of tea._
+  yourself a cup of tea._
 
 - You might need to play around with the amount of liquid—add a bit
-more if it’s too thick. You can always add more flour if it ends up too
-liquidy. _Repeat this process forever to end up with infinite pancake batter._
+  more if it’s too thick. You can always add more flour if it ends up too
+  liquidy. _Repeat this process forever to end up with infinite pancake batter._
 
 **Preparation IV: Vegan Pancakes with Yeast**
 _These are a bit more complicated, but we didn’t want to leave vegans out of the
@@ -80,9 +96,12 @@ pancake adventures. The previous recipe can be veganized deliciously, but this o
 doesn’t even call for eggs._
 
 - Mix together:
+
 # Dry instant yeast (2 teaspoons)
+
 # Sugar (2 teaspoons)
-# Room temperature water* (2 cups)
+
+# Room temperature water\* (2 cups)
 
 ```
 * Yeast will grow best in slightly warm water. They’ll grow a bit slower in cold
@@ -95,6 +114,7 @@ FOOD YOU CAN MAKE SO YOU DON’T DIE
 Let it sit for a few minutes for the yeast to do its thing. Make yourself a cup
 of hot chocolate.
 ```
+
 - Add flour (2 cups).
 
 - Mix until it turns into pancake batter.
@@ -115,42 +135,41 @@ Pancake Industrial Complex.
 # Whatever the box suggests until it turns into pancake batter.
 
 **Preparation: Do This No Matter What**
+
 - Turn on medium heat and let the pan warm up a bit. Or not, if you’re
-hungry and rushing.
+  hungry and rushing.
 
 - Add cooking oil to the frying pan.
 
 - Add a scoop of batter to the hot frying pan. Some people use a ladle. We
-use the cup measure we got dirty when measuring the flour. Save your-
-self washing the ladle.
+  use the cup measure we got dirty when measuring the flour. Save your-
+  self washing the ladle.
 
 - You wanna cook the pancake some of the way through so it’s got struc-
-tural integrity, then flip it and cook the bottom. How do you know when
-it’s time to flip? Crepe-style enthusiasts tell us to swirl the pancake bat-
-ter around the pan, flip, and serve. Fluffy-pancake connoisseurs speak of
-waiting for bubbles to appear in the pancake, then flipping and waiting a
-minute or two. Personally, we adopt a “trial and error” approach.**
+  tural integrity, then flip it and cook the bottom. How do you know when
+  it’s time to flip? Crepe-style enthusiasts tell us to swirl the pancake bat-
+  ter around the pan, flip, and serve. Fluffy-pancake connoisseurs speak of
+  waiting for bubbles to appear in the pancake, then flipping and waiting a
+  minute or two. Personally, we adopt a “trial and error” approach.\*\*
 
-** _For whatever reason, the first couple of pancakes never turn out as well as the
+\*\* _For whatever reason, the first couple of pancakes never turn out as well as the
 later ones. To paraphrase a famous chef, “The pan needs to get to know the pancakes,
 and the pancakes need to get to know the pan.”_
 
 ### <
 
-
-
 **Variations: Batter**
 Enhance your pancake experience by adding these.
 
 - If you substitute milk or plant milk for the water, you’ll get a richer
-pancake. This only works if you have milk in the house, which sounds
-unlikely.
+  pancake. This only works if you have milk in the house, which sounds
+  unlikely.
 
 - Add frozen fruit to the pancake batter. Don’t defrost it first.
 
 - Add fresh fruit to the pancake batter. _If you add fresh blueberries to the
-pancake batter, they will turn into weapons-grade pockets of molten juice. You
-have been warned._
+  pancake batter, they will turn into weapons-grade pockets of molten juice. You
+  have been warned._
 
 - Add a pinch of salt to the batter.
 
@@ -159,6 +178,7 @@ have been warned._
 - Add a dollop of vanilla. Or two.
 
 **Variations: Toppings**
+
 - Peasant: lemon and sugar
 
 - Layperson: nutella
@@ -178,6 +198,6 @@ have been warned._
 - Dutch-style: cheese and apple slices
 
 - Savoury: hummus, fried mushrooms, and spinach fried with cumin. May-
-be with a fried egg on top?
+  be with a fried egg on top?
 
 - Any or all of the above. Maybe not all at once.

@@ -8,18 +8,18 @@ you can get that awesome taste with even lower effort. This genuinely tastes goo
 is an excellent source of Vitamin C._
 
 **Core Ingredients**
+
 - Oranges
 
 - Cinnamon
 
 **Preparation**
-- Slice the oranges over a bowl so that none of the juice escapes. Ideally
-slice thinly. Don’t bother peeling them yet.
+
+- Slice the oranges over a bowl so that none of the juice escapes. Ideally slice thinly. Don’t bother peeling them yet.
 
 - Sprinkle cinnamon in the bowl and stir the whole thing up.
 
-- Let it sit for a bit. The juice and cinnamon will mix together to form a
-delicious goo-like substance which sticks to the orange slices.
+- Let it sit for a bit. The juice and cinnamon will mix together to form a delicious goo-like substance which sticks to the orange slices.
 
 - Take out the orange slices and sprinkle more cinnamon over them.
 
@@ -29,6 +29,7 @@ delicious goo-like substance which sticks to the orange slices.
 Not today, scurvy. Not
 today.
 ```
+
 ```
 Unless that’s your thing, and
 who are we to stop you?

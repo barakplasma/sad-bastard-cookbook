@@ -9,6 +9,7 @@ When it comes to the type of wrap you use, we’re not purists. If the “wrap�
 in the bread aisle is cheaper than the “tortilla,” use that.
 
 **Core Ingredients**
+
 - Tortilla or other wrap-like food substance
 
 - Oil
@@ -20,13 +21,14 @@ in the bread aisle is cheaper than the “tortilla,” use that.
 - Sweet potato
 
 **Preparation: Quesadilla**
+
 - Take a tortilla, sprinkle half of it generously with grated cheese, fold
-over.
+  over.
 
 - Put a bit of oil in a frying pan and heat on medium.
 
 - Cook on both sides in the frying pan until a little bit browned and the
-cheese is melted.
+  cheese is melted.
 
 - Or microwave the quesadilla for 30 seconds.
 
@@ -40,17 +42,16 @@ vegans.
 
 - Put a bit of oil in a frying pan and heat on medium.
 
-
-
 - Cook on both sides in the frying pan until a little bit browned.
 
 - Or microwave the pumpki-dilla for 30 seconds.
 
 **Variation: Boiled Sweet Potato**
+
 - Wash the sweet potato.
 
 - Chop the sweet potato into chunks so it boils faster. _Alternatively, buy the
-pre-chopped sweet potato—a little pricier, but it’ll save you effort._
+  pre-chopped sweet potato—a little pricier, but it’ll save you effort._
 
 - Boil until squishy.
 
@@ -59,16 +60,17 @@ pre-chopped sweet potato—a little pricier, but it’ll save you effort._
 - Apply like canned pumpkin.
 
 **Variation: Microwaved Sweet Potato**
+
 - Wash the sweet potato.
 
 - Pierce the sweet potato skin with a fork a few times so the sweet potato
-doesn’t explode in the microwave.
+  doesn’t explode in the microwave.
 
 - Microwave 7–10 minutes or so, until squishy.
 
 - Scoop out the insides with whatever not-completely-filthy utensil is
-closest at hand. _You can eat the skin, but it gets a weird texture in the micro-
-wave._
+  closest at hand. _You can eat the skin, but it gets a weird texture in the micro-
+  wave._
 
 - Apply like canned pumpkin.
 

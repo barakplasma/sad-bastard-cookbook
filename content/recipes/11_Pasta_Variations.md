@@ -7,10 +7,12 @@ tags = ["vegan", "vegetarian", "pasta", "quick", "staple", "tomato-sauce", "chee
 Pasta is like ramen noodles but you have to buy the sauce separately. Also, you can’t cook them with boiling water straight from the kettle. On the plus side, they come in shapes, and anyone who says that alphabet noodles are only for children is lying.
 
 **Core Ingredients**
+
 - Any shape pasta
 - Any sauce
 
 **Preparation**
+
 - Bring water to a boil in a pot.
 - Add the pasta to the boiling water.
 - You can add salt to the water if it makes you feel like a fancy Italian person with their life together. We’re not entirely sure what the salt does.
@@ -38,6 +40,7 @@ _We can’t imagine adding all these variations to the same bowl of pasta at the
 - If you’re looking for a low-carb alternative, you can buy spaghetti squash and zucchini cut into noodle spirals in the frozen veggies section.
 
 **Mid-Tier Pasta Types**
+
 - Mix cooked pasta with tomatoes, olive oil, garlic, and black pepper. The goal is to mix things together—only the pasta needs to be actually cooked. You can also add feta cheese if you’re not vegan.
 - On grocery day, buy some tortellini from the fresh pasta section. Get a nice pesto in a jar instead of the cheapest tomato sauce you can find. You can serve this to a guest and they’ll think you put in effort. Which you did.
 - Honestly any fresh pasta is posh and tastes great.

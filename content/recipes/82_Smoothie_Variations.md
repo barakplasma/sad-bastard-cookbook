@@ -7,15 +7,17 @@ exhausted to function, as you can get calories and nutrients into your body
 without even bothering to chew.
 
 **Core Ingredients and Supplies**
+
 - Blender
 
 - Fruit, like raspberries, blackberries, or strawberries. _We particularly rec-
-ommend frozen fruit, as it’s cheaper and lasts longer, and will make the smoothie
-cold and refreshing._
+  ommend frozen fruit, as it’s cheaper and lasts longer, and will make the smoothie
+  cold and refreshing._
 
 - Juice or milk or some other liquid
 
 **Preparation**
+
 - Put fruit in the blender.
 
 - Add some liquid.
@@ -23,10 +25,10 @@ cold and refreshing._
 - Blend.
 
 - If it’s too thick to blend, or if you want it less thick when you drink it,
-add more liquid.
+  add more liquid.
 
 - If it’s not sweet enough, add sugar or honey or banana or something else
-that’s sweet.
+  that’s sweet.
 
 **Variations**
 You can put almost anything in a smoothie. Will it blend? If you have a good
@@ -36,12 +38,10 @@ Reader.
 - Banana, fresh
 
 - Banana which you put in the freezer when you realised it was going
-black. You need to peel it, but you don’t need to defrost it before you
-blend it.
+  black. You need to peel it, but you don’t need to defrost it before you
+  blend it.
 
 - Frozen fruit
-
-
 
 - Fresh fruit
 

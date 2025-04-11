@@ -5,9 +5,10 @@ tags = ["vegetarian", "potatoes", "leftovers", "quick", "comfort-food"]
 +++
 
 **Core Ingredients**
+
 - Potato (These should be already cooked.
-You can use any remnants of the _Baked
-Potato_ recipe.)
+  You can use any remnants of the _Baked
+  Potato_ recipe.)
 
 - Cooking oil or butter
 
@@ -16,32 +17,34 @@ Potato_ recipe.)
 - The rest of your leftovers
 
 **Preparation**
+
 - Put oil or melt butter in a frying pan on
-medium heat. If you’re using onions, let them get a head start with the
-frying.
+  medium heat. If you’re using onions, let them get a head start with the
+  frying.
 
 - Mash up the potatoes with a fork or the edge of your spatula if they’re
-not already mashed.
+  not already mashed.
 
 - Dump in the potatoes and any other ingredients and fry for about 10
-minutes. Keep pressing everything down with your spatula or whatever
-you have.
+  minutes. Keep pressing everything down with your spatula or whatever
+  you have.
 
 - Flip it over and add some salt and pepper. Fry for another few minutes.
-You’re aiming for golden brown but we’ll settle for not burnt.
+  You’re aiming for golden brown but we’ll settle for not burnt.
 
 - If you’re using an egg, drop it in right at the end to quickly fry.
 
 **Mid-Tier**
+
 - Chopped onions
 
 - Fried egg
 
 - Any chopped vegetables. You can use frozen vegetables as well but it’ll
-take a bit longer.
+  take a bit longer.
 
 - Some British people will tell you that _Bubble and Squeak_ needs to include cabbage, spinach, or some other green. They can think that. We have
-nothing against the British people, only their fascist governments.
+  nothing against the British people, only their fascist governments.
 
 ```
 Rachel learned this recipe from a
@@ -61,8 +64,9 @@ have left.
 ```
 
 **God-Tier**
+
 - The God-Tier version of fried potato bits is called latkes, which you should
-look up and make when you’re feeling better.
+  look up and make when you’re feeling better.
 
 ```
 Marah from Query

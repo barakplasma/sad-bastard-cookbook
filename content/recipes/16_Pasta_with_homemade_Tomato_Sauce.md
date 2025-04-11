@@ -7,6 +7,7 @@ tags = ["vegetarian", "pasta", "tomato", "quick", "healthy", "one-pot"]
 _This recipe is God-Tier, but it’s also very delicious. Make it on a good day, or if you’ve got guests, or maybe just to treat yourself._
 
 **Core Ingredients**
+
 - Pasta
 - Cherry tomatoes
 - Boiling water
@@ -14,6 +15,7 @@ _This recipe is God-Tier, but it’s also very delicious. Make it on a good day,
 - Salt
 
 **Preparation**
+
 - Cook pasta according to the package directions. See _Pasta Variations_ for more pasta-related witty banter and maybe some cooking advice.
 - Five minutes before pasta is finished cooking, add two handfuls of cherry tomatoes (maybe 6–8 tomatoes) to the boiling water.
 - Drain pasta and tomatoes.
@@ -26,6 +28,7 @@ _This recipe is God-Tier, but it’s also very delicious. Make it on a good day,
 Unless Cam from The Devil You Know ate
 them all before you could harvest them.
 ```
+
 ```
 Yes, we copied
 and pasted that

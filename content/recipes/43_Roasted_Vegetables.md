@@ -5,18 +5,20 @@ tags = ["vegan", "vegetarian", "vegetables", "roasted", "healthy", "side-dish"]
 +++
 
 **Core Ingredients**
+
 - Vegetables that can be roasted. _Root vegetables work particularly well! We
-recommend potatoes, carrots, parsnips, squash, celery root, onions (red tastes
-best but yellow is cheapest) and sweet potato._
+  recommend potatoes, carrots, parsnips, squash, celery root, onions (red tastes
+  best but yellow is cheapest) and sweet potato._
 
 - Cooking oil
 
 - Salt
 
 **Preparation**
+
 - Cut vegetables to roughly the same size. They can be basically any size,
-but we recommend about the size of your thumb. _Though thumbs can also
-be any size._
+  but we recommend about the size of your thumb. _Though thumbs can also
+  be any size._
 
 - Put cut vegetables on the baking sheet.
 
@@ -33,12 +35,13 @@ be any size._
 - If it doesn’t seem done, give them another 10 minutes, and check again.
 
 **Variations: Vegetables**
+
 - Potatoes
 
 - Sweet potatoes
 
 - Vegetarian sausages. _These are technically not vegetables, but they are often
-made from vegetables._
+  made from vegetables._
 
 - Bell peppers
 
@@ -54,7 +57,6 @@ them from the can. Do
 not roast the can.
 ```
 
-
 - Brussels sprouts
 
 - Eggplant
@@ -64,6 +66,7 @@ not roast the can.
 - Cauliflower
 
 **Variations: Other**
+
 - Add spices along with the salt.
 
 - Serve on cooked _Pasta._

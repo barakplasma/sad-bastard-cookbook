@@ -16,11 +16,13 @@ on the counter or in the fridge instead of in the freezer. But that sounds
 unlikely.
 
 **Core Ingredients**
+
 - Bread
 
 - Things that go on toast
 
 **Preparation**
+
 - Apply bread to toaster.
 
 - When toast pops, remove from toaster.
@@ -28,7 +30,7 @@ unlikely.
 - Put stuff of choice on toast.
 
 - Optional: put another slice of toast on top to make a “closed-face” sand-
-wich instead of an “open-faced” sandwich.
+  wich instead of an “open-faced” sandwich.
 
 **Variations**
 There are nearly infinite toast variations.
@@ -41,14 +43,12 @@ There are nearly infinite toast variations.
 
 - Marshmallow fluff
 
-
-
 - Maple syrup “butter”
 
 - Banana slices with any of the above
 
 - Butter or margarine & chocolate sprinkles are popular in the Nether-
-lands.
+  lands.
 
 - Jam
 
@@ -65,7 +65,7 @@ lands.
 - Hummus
 
 - Baked beans from a can, warmed in the microwave. _Beans on toast are
-popular in the UK._
+  popular in the UK._
 
 - Avocado slices
 

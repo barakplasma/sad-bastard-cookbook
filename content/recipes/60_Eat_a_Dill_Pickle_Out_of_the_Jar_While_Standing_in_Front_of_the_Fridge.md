@@ -3,12 +3,15 @@ title = "Eat a Dill Pickle Out of the Jar While Standing in Front of the Fridge"
 +++
 
 **Core Ingredients**
+
 - Dill pickle
 
 **Preparation**
+
 - Eat a dill pickle out of the jar while standing in front of the fridge.
 
 **Variations**
+
 - Eat over the sink to catch drips.
 
 - Eat some shredded cheese instead.
