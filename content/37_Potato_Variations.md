@@ -1,4 +1,0 @@
-+++
-title = "Potato Variations"
-+++
-
