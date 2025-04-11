@@ -1,6 +1,6 @@
 +++
-title = "Pasta with Homemade Tomato Sauce (Recipe Details)" # Adjusted title for clarity
-tags = ["vegan", "pasta", "tomato", "fresh", "quick", "god-tier", "one-pot"]
+title = "Pasta with Homemade Tomato Sauce"
+tags = ["vegetarian", "pasta", "tomato", "quick", "healthy", "one-pot"]
 +++
 
 _This recipe is God-Tier, but it’s also very delicious. Make it on a good day, or if you’ve got guests, or maybe just to treat yourself._

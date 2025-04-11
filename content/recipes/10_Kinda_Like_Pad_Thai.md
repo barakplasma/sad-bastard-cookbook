@@ -1,6 +1,6 @@
 +++
 title = "Kinda Like Pad Thai"
-tags = ["vegan", "vegetarian", "noodles", "rice-noodles", "quick", "peanut-butter", "sweet-chili", "asian-inspired", "egg"]
+tags = ["vegetarian", "noodles", "quick", "peanut-butter", "asian-inspired", "customizable"]
 +++
 
 Peanut butter and sweet chili sauce mix together to make something which tastes kinda like you’d imagine Pad Thai sauce would taste if you’ve never had Pad Thai before. It’s delicious. Real Pad Thai is even more so.

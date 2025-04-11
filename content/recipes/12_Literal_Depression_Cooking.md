@@ -1,6 +1,6 @@
 +++
 title = "Literal Depression Cooking"
-tags = ["vegetarian", "pasta", "cheese", "ketchup", "quick", "pantry", "comfort-food"]
+tags = ["vegetarian", "pasta", "cheese", "ketchup", "quick", "comfort-food"]
 +++
 
 _Technically, this recipe came to us from WW2 rationing, not Great Depression-era cooking, but we like puns._

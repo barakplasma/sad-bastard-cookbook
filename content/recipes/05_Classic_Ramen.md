@@ -1,6 +1,6 @@
 +++
 title = "Ramen Variations and Preparations"
-tags = ["vegan", "ramen", "noodles", "quick", "stove", "kettle", "microwave", "rice-noodles", "soup", "asian-inspired"]
+tags = ["vegetarian", "ramen", "quick", "soup", "customizable", "asian-inspired"]
 +++
 
 Ramen is our ride-or-die. It got us through undergrad, working for poverty wages, and too many depressive episodes to count. It’s cheap, versatile, and takes 5–10 minutes to prepare. You can even eat it dry after smashing it up a bit, with the powder sprinkled on top, if cooking seems like it’s going to take too many spoons.

@@ -1,6 +1,6 @@
 +++
 title = "Pasta in a Rice Cooker"
-tags = ["vegan", "vegetarian", "pasta", "quick", "rice-cooker", "one-pot", "pantry"]
+tags = ["vegetarian", "pasta", "quick", "one-pot", "lazy", "pantry"]
 +++
 
 **Core Ingredients**

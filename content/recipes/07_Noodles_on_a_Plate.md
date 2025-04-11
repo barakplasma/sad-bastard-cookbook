@@ -1,6 +1,6 @@
 +++
 title = "Noodles on a Plate"
-tags = ["vegan", "ramen", "noodles", "quick", "stir-fry", "asian-inspired"]
+tags = ["vegetarian", "noodles", "quick", "customizable", "asian-inspired"]
 +++
 
 ### Ramen Variations Part II: Instant Noodles on a Plate
