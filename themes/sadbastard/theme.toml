@@ -1,0 +1,12 @@
+# Metadata for the Sad Bastard Cookbook theme
+
+name = "sadbastard"
+description = "A custom theme for the Sad Bastard Cookbook Zola site, focusing on readability and a clean sidebar navigation."
+version = "0.1.0"
+authors = ["AI Assistant & BarakPlasma"] # Feel free to adjust
+
+# Optional: Specify minimum Zola version if needed
+# min_version = "0.17.0"
+
+# Optional: Specify a license for the theme itself
+# license = "MIT"

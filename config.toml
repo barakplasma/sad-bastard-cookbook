@@ -1,15 +1,17 @@
+# --- START OF FILE sad-bastard-cookbook-main/config.toml ---
+
 # The base URL of the site (e.g., https://your-username.github.io/sad-bastard-cookbook/)
 # **IMPORTANT**: Replace with your actual GitHub Pages URL once known.
 # Start with "/" for local testing, update before final deployment.
-base_url = "/"
-#base_url = "https://barakplasma.github.io/sad-bastard-cookbook/"
+#base_url = "/"
+base_url = "https://barakplasma.github.io/sad-bastard-cookbook/"
 # The site title
 title = "The Sad Bastard Cookbook"
 # The site description (optional)
 description = "Food you can make so you don’t die."
 
-# Theme - we are not using one here, but keep the key
-#theme = ""
+# Theme - Use the new 'sadbastard' theme
+theme = "sadbastard"
 
 # Syntax highlighting (optional, but nice for code if you add any)
 highlight_code = false

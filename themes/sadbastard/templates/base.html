@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ config.default_language | default(value='en') }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
+    <link rel="stylesheet" href="{{ get_url(path='style.css', cachebust=true) }}">
+    {% block extra_head %}{% endblock extra_head %}
+</head>
+<body>
+    <aside id="sidebar">
+        <h2><a href="{{ config.base_url | safe }}">{{ config.title }}</a></h2>
+        <nav>
+            <ul>
+                {# Link to the Home/Cover page #}
+                <li><a href="{{ config.base_url | safe }}" class="{% if current_path == '/' %}active{% endif %}">Cover</a></li>
+
+                {# Link to the automatically generated ToC page #}
+                {% set toc_page = get_page(path="toc.md") %}
+                {% if toc_page %}
+                    <li><a href="{{ toc_page.permalink | safe }}" class="{% if current_url == toc_page.permalink %}active{% endif %}">Table of Contents</a></li>
+                {% endif %}
+
+                {# Separator #}
+                <li style="margin-top: 10px; margin-bottom: 10px; border-top: 1px dashed var(--sidebar-border);"></li>
+
+                {# Get main content section (assuming content files are directly under /content) #}
+                {% set content_section = get_section(path="_index.md") %}
+
+                {# Iterate through pages, sorted by filename (due to numbering) #}
+                {% for page in content_section.pages %}
+                    {# Exclude the Cover page and the special ToC page file from this list #}
+                    {% if page.relative_path != "00_Preface.md" and page.relative_path != "toc.md" %}
+                        <li>
+                            <a href="{{ page.permalink | safe }}" class="{% if current_url == page.permalink %}active{% endif %}">
+                                {# Clean up title for display #}
+                                {{ page.title | trim_start_matches(pat="^[0-9]+_") | replace(from="_", to=" ") | replace(from="-", to=" ") | title }}
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </nav>
+    </aside>
+
+    <main id="main-content">
+        {% block content %}
+            {# Default content if block is not overridden #}
+        {% endblock content %}
+    </main>
+
+    {% block body_script %}{% endblock body_script %}
+</body>
+</html>

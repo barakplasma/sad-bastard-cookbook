@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+    --bg-color: #fdfdfd;
+    --text-color: #333;
+    --heading-color: #111;
+    --sidebar-bg: #f0f0f0;
+    --sidebar-border: #ddd;
+    --sidebar-link: #444;
+    --sidebar-link-hover: #000;
+    --sidebar-active-bg: #e0e0e0;
+    --accent-color: #a0a0a0; /* Muted accent */
+    --blockquote-border: #ccc;
+    --blockquote-text: #555;
+    --code-bg: #e8e8e8;
+    --border-color: #eee;
+
+    --font-body: 'Merriweather', serif;
+    --font-heading: 'Lato', sans-serif;
+}
+
+body {
+    font-family: var(--font-body);
+    line-height: 1.7;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+#sidebar {
+    width: 280px;
+    flex-shrink: 0; /* Prevent sidebar from shrinking */
+    height: 100vh;
+    overflow-y: auto;
+    background-color: var(--sidebar-bg);
+    border-right: 1px solid var(--sidebar-border);
+    padding: 25px;
+    box-sizing: border-box; /* Include padding in width */
+    position: sticky; /* Keep sidebar visible */
+    top: 0;
+}
+
+#sidebar h2 {
+    font-family: var(--font-heading);
+    font-size: 1.3em;
+    color: var(--heading-color);
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid var(--sidebar-border);
+    padding-bottom: 10px;
+}
+
+#sidebar nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#sidebar nav li {
+    margin-bottom: 8px;
+}
+
+#sidebar nav a {
+    font-family: var(--font-heading);
+    text-decoration: none;
+    color: var(--sidebar-link);
+    display: block;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    font-size: 0.95em;
+}
+
+#sidebar nav a:hover {
+    background-color: var(--sidebar-active-bg);
+    color: var(--sidebar-link-hover);
+}
+
+#sidebar nav a.active {
+    background-color: var(--accent-color);
+    color: white;
+    font-weight: bold;
+}
+
+
+#main-content {
+    flex-grow: 1;
+    padding: 30px 50px;
+    max-width: 850px; /* Comfortable reading width */
+    margin: 0 auto; /* Center the content area */
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    color: var(--heading-color);
+    margin-top: 2em;
+    margin-bottom: 0.8em;
+    line-height: 1.3;
+}
+
+h1 {
+    font-size: 2.4em;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.3em;
+}
+
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.4em; }
+
+p {
+    margin-bottom: 1.2em;
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+blockquote {
+    margin-left: 0; /* Reset margin */
+    margin-right: 0;
+    padding: 10px 20px;
+    border-left: 4px solid var(--blockquote-border);
+    background-color: #f9f9f9;
+    color: var(--blockquote-text);
+    font-style: italic;
+}
+
+pre {
+    background-color: var(--code-bg);
+    padding: 15px;
+    overflow-x: auto;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+code {
+    font-family: monospace;
+    background-color: var(--code-bg);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+pre code {
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0;
+    font-size: inherit; /* Inherit font size from pre */
+}
+
+ul, ol {
+    padding-left: 30px;
+    margin-bottom: 1.2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Prevent extra space below image */
+    margin: 1.5em auto; /* Center images with some space */
+    border-radius: 4px;
+}
+
+/* Table styling (if needed later) */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1.5em;
+}
+
+th, td {
+    border: 1px solid var(--border-color);
+    padding: 8px 12px;
+    text-align: left;
+}
+
+th {
+    background-color: var(--sidebar-bg);
+    font-weight: bold;
+    font-family: var(--font-heading);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    body {
+        flex-direction: column; /* Stack elements */
+    }
+
+    #sidebar {
+        width: 100%;
+        height: auto; /* Allow height to adjust */
+        position: static; /* Remove sticky positioning */
+        border-right: none;
+        border-bottom: 1px solid var(--sidebar-border);
+        padding: 15px;
+    }
+
+    #main-content {
+        padding: 20px;
+        max-width: 100%; /* Use full width */
+        margin: 0;
+    }
+
+    h1 { font-size: 2em; }
+    h2 { font-size: 1.6em; }
+    h3 { font-size: 1.3em; }
+}

@@ -1,5 +1,5 @@
 +++
-title = "Table of Contents"
+title = "Book version of Table of Contents"
 +++
 
 **Content notes:** Mental and physical illness, disordered eating, and dark
