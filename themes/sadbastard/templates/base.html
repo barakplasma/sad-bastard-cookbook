@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ config.default_language | default(value='en') }}">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=width=device-width, initial-scale=1">
@@ -8,28 +9,29 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css">
     {% block extra_head %}{% endblock extra_head %}
 </head>
+
 <body>
     <header>
         <nav>
-                <a href="{{ get_page(path='table-of-contents.md') }}">Contents</a>
-
-                <a href="{{ config.base_url | safe }}">Home</a>
-
+            <ul>
+                <li><a href="{{ config.base_url | safe }}">
+                        <h1>The Sad Bastard Cookbook</h1>
+                        <h6>Food you can make so you don’t die</h6>
+                    </a></li>
+            </ul>
+            <ul>
+                <li><a href="https://mybook.to/MIUiKB">Buy Print Copy</a></li>
+                <li><a href="https://nightbeatseu.ca/works/the-sad-bastard-cookbook/">Visit Author Homepage</a></li>
+                <li><a href="{{ get_url(path='pdf') }}">View PDF Version</a></li>
+            </ul>
         </nav>
     </header>
 
     <main>
         {% block content %}{% endblock content %}
-
-        {% if current_path != "toc.md" %}
-            <nav>
-                <ul>
-                    <li><a href="{{ get_page(path='table-of-contents.md') }}" role="button">↑ Contents</a></li>
-                </ul>
-            </nav>
-        {% endif %}
     </main>
 
     {% block body_script %}{% endblock body_script %}
 </body>
+
 </html>

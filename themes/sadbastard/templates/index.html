@@ -3,25 +3,9 @@
 {% block title %}{{ config.title }}{% endblock title %}
 
 {% block content %}
-    <main>
-        <article>
-            <header>
-                <h1>{{ section.title }}</h1>
-            </header>
-
-            {{ section.content | safe }}
-
-            <nav>
-                <ul>
-                    <li><a href="https://traumbooks.itch.io/the-sad-bastard-cookbook">Download PDF Version</a></li>
-                    <li><a href="https://mybook.to/MIUiKB">Buy Print Copy</a></li>
-                    <li><a href="https://nightbeatseu.ca/works/the-sad-bastard-cookbook/">Visit Author Homepage</a></li>
-
-                        <li><a href="{{ toc.permalink }}">View Table of Contents</a></li>
-
-                        <li><a href="{{ pdf.permalink }}">View PDF Version</a></li>
-                </ul>
-            </nav>
-        </article>
-    </main>
+<header>
+    <h3>By Zilla Novikov & Rachel A. Rosen</h3>
+    <h3>Adapted into a website by Michael Salaverry</h3>
+</header>
+<a href="{{ get_url(path="recipes") }}">Recipes</a>
 {% endblock content %}
