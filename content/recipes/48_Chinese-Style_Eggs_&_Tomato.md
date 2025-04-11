@@ -1,5 +1,6 @@
 +++
 title = "Chinese-Style Eggs & Tomato"
+tags = ["vegetarian", "eggs", "tomato", "quick", "asian-inspired", "comfort-food"]
 +++
 
 **Core Ingredients**

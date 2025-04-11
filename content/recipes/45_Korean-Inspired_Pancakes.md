@@ -1,5 +1,6 @@
 +++
 title = "Korean-Inspired Pancakes"
+tags = ["vegetarian", "pancakes", "quick", "asian-inspired", "customizable"]
 +++
 
 _We have it on good authority that saying “inspired by” is how you get away with

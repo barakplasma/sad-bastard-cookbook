@@ -1,5 +1,6 @@
 +++
 title = "Banana Frozen Yogurt"
+tags = ["vegetarian", "dessert", "banana", "frozen", "quick", "healthy"]
 +++
 
 _You know that thing where you freeze chunks of banana and then put them in a

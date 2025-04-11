@@ -1,5 +1,6 @@
 +++
 title = "Hangover Bubble and Squeak"
+tags = ["vegetarian", "potatoes", "leftovers", "quick", "comfort-food"]
 +++
 
 **Core Ingredients**

@@ -1,5 +1,6 @@
 +++
 title = "Chips"
+tags = ["snack", "quick", "chips", "customizable", "dips"]
 +++
 
 **Core ingredients**

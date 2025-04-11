@@ -1,5 +1,6 @@
 +++
 title = "Couscous Variations"
+tags = ["vegan", "vegetarian", "couscous", "quick", "customizable", "pantry"]
 +++
 
 You can think of couscous like instant rice or instant noodles that come in

@@ -1,5 +1,6 @@
 +++
 title = "Popcorn"
+tags = ["snack", "quick", "popcorn", "customizable", "movie-night"]
 +++
 
 **Core Ingredients**
@@ -34,3 +35,4 @@ This depends on your
 microwave. Rachel’s requires
 10 seconds more.
 ```
+````

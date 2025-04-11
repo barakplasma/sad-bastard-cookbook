@@ -1,5 +1,6 @@
 +++
 title = "Eggs & Bread Variations"
+tags = ["vegetarian", "eggs", "bread", "quick", "breakfast", "comfort-food"]
 +++
 
 **Core Ingredients**

@@ -1,5 +1,6 @@
 +++
 title = "Bag Salad"
+tags = ["vegetarian", "salad", "quick", "customizable", "healthy"]
 +++
 
 This is easy to make, but it assumes you have lettuce in the

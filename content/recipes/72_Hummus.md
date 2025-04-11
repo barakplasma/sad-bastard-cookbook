@@ -1,5 +1,6 @@
 +++
 title = "Hummus"
+tags = ["vegan", "vegetarian", "dip", "chickpeas", "quick", "healthy"]
 +++
 
 Hummus is awesome because it tastes good, it’s highly portable, and it’s even

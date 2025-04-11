@@ -1,5 +1,6 @@
 +++
 title = "Dumplings"
+tags = ["vegetarian", "dumplings", "quick", "comfort-food", "pantry"]
 +++
 
 Frozen dumplings are excessively delicious. If you’re lucky, you can get

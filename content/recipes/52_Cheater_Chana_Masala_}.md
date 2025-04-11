@@ -1,5 +1,6 @@
 +++
-title = "Cheater Chana Masala }................................................................................................"
+title = "Cheater Chana Masala"
+tags = ["vegan", "vegetarian", "chickpeas", "quick", "indian-inspired", "pantry"]
 +++
 
 **Core Ingredients**

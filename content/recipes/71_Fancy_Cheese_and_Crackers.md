@@ -1,5 +1,6 @@
 +++
 title = "Fancy Cheese and Crackers"
+tags = ["vegetarian", "cheese", "crackers", "snack", "quick", "party"]
 +++
 
 This will impress a guest, possibly because it involves actual cooking.

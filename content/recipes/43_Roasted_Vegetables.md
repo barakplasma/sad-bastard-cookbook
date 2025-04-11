@@ -1,5 +1,6 @@
 +++
 title = "Roasted Vegetables"
+tags = ["vegan", "vegetarian", "vegetables", "roasted", "healthy", "side-dish"]
 +++
 
 **Core Ingredients**

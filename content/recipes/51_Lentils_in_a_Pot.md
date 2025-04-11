@@ -1,5 +1,6 @@
 +++
 title = "Lentils in a Pot"
+tags = ["vegan", "vegetarian", "lentils", "quick", "healthy", "pantry"]
 +++
 
 **Core Ingredients**

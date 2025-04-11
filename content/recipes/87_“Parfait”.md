@@ -1,5 +1,6 @@
 +++
-title = "“Parfait”"
+title = "Parfait"
+tags = ["vegetarian", "dessert", "quick", "fruit", "yogurt", "layered"]
 +++
 
 **Core Ingredients**

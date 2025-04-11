@@ -1,5 +1,6 @@
 +++
 title = "Spring Rolls"
+tags = ["vegetarian", "spring-rolls", "quick", "asian-inspired", "snack"]
 +++
 
 If you find spring rolls in the fridge section, or marketed as appetizers for

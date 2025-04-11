@@ -1,5 +1,6 @@
 +++
 title = "Oatmeal Variations"
+tags = ["vegetarian", "breakfast", "oatmeal", "quick", "healthy", "customizable"]
 +++
 
 **Core Ingredients**

@@ -1,5 +1,6 @@
 +++
 title = "French Fry Variations: Now What?"
+tags = ["vegetarian", "fries", "quick", "customizable", "snack"]
 +++
 
 So you’ve got fries, or hash brown, or tater tots. Now you’re ready to take

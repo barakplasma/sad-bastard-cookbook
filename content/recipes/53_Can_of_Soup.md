@@ -1,5 +1,6 @@
 +++
 title = "Can of Soup"
+tags = ["soup", "quick", "pantry", "customizable", "lazy"]
 +++
 
 **Core Ingredients**
@@ -59,3 +60,4 @@ Skydome for 20 years. She also notes that
 she will continue to call it the Skydome
 regardless.
 ```
+`

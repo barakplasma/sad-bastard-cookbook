@@ -1,5 +1,6 @@
 +++
 title = "Garlic Bread"
+tags = ["vegetarian", "bread", "garlic", "quick", "side-dish"]
 +++
 
 **Core Ingredients**

@@ -1,5 +1,6 @@
 +++
 title = "Ice Cream"
+tags = ["dessert", "frozen", "sweet", "quick", "customizable"]
 +++
 
 Like smoothies, except you don’t have to make it yourself or clean a blender.

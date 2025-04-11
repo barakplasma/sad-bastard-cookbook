@@ -1,5 +1,6 @@
 +++
 title = "Potato Variations and Preparations"
+tags = ["vegetarian", "potatoes", "versatile", "quick", "comfort-food"]
 +++
 
 Potatoes are proof that evolution was a good idea. They’re the ideal food. You can boil them, bake them, fry them, or turn them into vodka. Just ask Samwise Gamgee from The Lord of the Rings.

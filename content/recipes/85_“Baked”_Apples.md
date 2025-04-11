@@ -1,5 +1,6 @@
 +++
 title = "“Baked” Apples"
+tags = ["vegetarian", "dessert", "apple", "microwave", "quick", "healthy"]
 +++
 
 _Technically, you_ could _make this in the oven. If you wanted to._

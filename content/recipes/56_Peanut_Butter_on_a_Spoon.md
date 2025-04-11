@@ -1,5 +1,6 @@
 +++
 title = "Peanut Butter on a Spoon"
+tags = ["snack", "quick", "peanut-butter", "lazy", "energy"]
 +++
 
 **Core Ingredients**

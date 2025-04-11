@@ -1,5 +1,6 @@
 +++
 title = "Tanzanian Braised Coconut Cabbage"
+tags = ["vegan", "vegetarian", "cabbage", "coconut", "stove", "healthy"]
 +++
 
 This is the kind of real recipe which has real measurements. Feel free to

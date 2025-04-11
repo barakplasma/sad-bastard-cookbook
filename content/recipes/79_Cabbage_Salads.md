@@ -1,5 +1,6 @@
 +++
 title = "Cabbage Salads"
+tags = ["vegan", "vegetarian", "salad", "cabbage", "quick", "healthy", "pantry"]
 +++
 
 _Cabbage salad three ways._

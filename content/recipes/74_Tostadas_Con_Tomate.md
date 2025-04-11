@@ -1,5 +1,6 @@
 +++
 title = "Tostadas Con Tomate"
+tags = ["vegetarian", "quick", "bread", "tomato", "spanish-inspired"]
 +++
 
 This meal sounds much fancier if you don’t know enough Spanish to

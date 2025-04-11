@@ -1,5 +1,6 @@
 +++
 title = "Pancakes"
+tags = ["vegetarian", "breakfast", "pancakes", "quick", "customizable"]
 +++
 
 Big Pancake doesn’t want you to know this, but making pancakes is easier

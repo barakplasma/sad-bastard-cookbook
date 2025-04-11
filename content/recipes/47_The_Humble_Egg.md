@@ -1,5 +1,6 @@
 +++
 title = "The Humble Egg"
+tags = ["vegetarian", "eggs", "quick", "protein", "versatile"]
 +++
 
 An egg is a versatile thing. These egg recipes can be main meals. They can

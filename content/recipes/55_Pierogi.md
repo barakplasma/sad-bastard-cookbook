@@ -1,5 +1,6 @@
 +++
 title = "Pierogi"
+tags = ["vegetarian", "dumplings", "quick", "comfort-food", "pantry"]
 +++
 
 These are tasty potato-filled packages. The freshly made ones are heavenly,
