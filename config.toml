@@ -13,9 +13,6 @@ description = "Food you can make so you don’t die."
 # Theme - Use the new 'sadbastard' theme
 theme = "sadbastard"
 
-# Syntax highlighting (optional, but nice for code if you add any)
-highlight_code = false
-
 # Compile SASS? We're using plain CSS
 compile_sass = false
 
