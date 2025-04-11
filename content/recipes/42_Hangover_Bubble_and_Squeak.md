@@ -1,5 +1,5 @@
 +++
-title = "Hangover Bubble and Squeak }.................................................................................."
+title = "Hangover Bubble and Squeak"
 +++
 
 **Core Ingredients**
@@ -38,7 +38,8 @@ You’re aiming for golden brown but we’ll settle for not burnt.
 - Any chopped vegetables. You can use frozen vegetables as well but it’ll
 take a bit longer.
 
-- Some British people will tell you that _Bubble and Squeak_ needs to include
+- Some British people will tell you that _Bubble and Squeak_ needs to include cabbage, spinach, or some other green. They can think that. We have
+nothing against the British people, only their fascist governments.
 
 ```
 Rachel learned this recipe from a
@@ -57,14 +58,8 @@ what you do with any that you
 have left.
 ```
 
-```
-THE SAD BASTARD COOKBOOK
-cabbage, spinach, or some other green. They can think that. We have
-nothing against the British people, only their fascist governments.
-```
 **God-Tier**
-- The God-Tier version of fried pota-
-to bits is called latkes, which you should
+- The God-Tier version of fried potato bits is called latkes, which you should
 look up and make when you’re feeling better.
 
 ```
