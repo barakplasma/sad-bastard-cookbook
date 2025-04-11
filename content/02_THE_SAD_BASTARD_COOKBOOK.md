@@ -1,0 +1,59 @@
+## THE SAD BASTARD COOKBOOK
+
+
+- Potato Variations Part IV: French Fries }
+- French Fry Variations: Now What? }
+- Spring Rolls }
+- Hangover Bubble and Squeak }..................................................................................
+- Roasted Vegetables }
+- Pancakes }
+- Korean-Inspired Pancakes }
+- Oatmeal Variations }
+- The Humble Egg
+- Chinese-Style Eggs & Tomato
+- Eggs & Bread Variations
+- Bean Salad }
+- Lentils in a Pot }
+- Cheater Chana Masala }................................................................................................
+- Can of Soup }
+- Dumplings }
+- Pierogi }
+- Peanut Butter on a Spoon }
+- Peanut Butter Balls }
+- Apple Slices Yes }
+- Grapefruit No }
+- Eat a Dill Pickle Out of the Jar While Standing in Front of the Fridge }
+- Popcorn }
+- Eddy No }...........................................................................................................................
+- Chips }
+- College Guacamole }
+- The Fastest Nachos }
+- Quesadillas & Pumpki-dillas Part I: The Basics }
+- Quesadillas & Pumpki-dillas Part II: Variations }
+- Wraps }
+- Toast Variations }
+- Crackers and Stuff }
+- Fancy Cheese and Crackers
+- Hummus }
+- Garlic Bread }
+- Tostadas Con Tomate }
+- Grilled Cheese Sandwiches
+- “Pizza” } FOOD YOU CAN MAKE SO YOU DON’T DIE
+- Tanzanian Braised Coconut Cabbage }
+- Bag Salad }
+- Cabbage Salads }
+- Ants on a Log }
+- Fried Plantains }
+- Smoothie Variations }
+- Ice Cream }
+- Moroccan Oranges }
+- “Baked” Apples }
+- Banana Frozen Yogurt
+- “Parfait”
+- Chocolate Pudding }
+- Core Ingredients to Keep in Your Kitchen
+- Zilla’s Shopping List & Weekly Menu
+- Shopping List & Weekly Menu Rachel’s “Three Meals a Day Are Cognitive Overload”
+- Thank You to Our Contributors
+- Message from the Authors
+- Not an Index
