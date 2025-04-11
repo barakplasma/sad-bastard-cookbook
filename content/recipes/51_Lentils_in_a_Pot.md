@@ -47,9 +47,7 @@ Ethiopian and Eritrean spice mix, it works really well for this.
 Trust us.
 ```
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Add garlic and onions when you add the lentils. You can get these pre-
 chopped and frozen.
 

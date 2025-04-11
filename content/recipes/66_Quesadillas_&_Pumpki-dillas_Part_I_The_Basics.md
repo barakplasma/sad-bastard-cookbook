@@ -41,9 +41,7 @@ vegans.
 - Put a bit of oil in a frying pan and heat on medium.
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Cook on both sides in the frying pan until a little bit browned.
 
 - Or microwave the pumpki-dilla for 30 seconds.

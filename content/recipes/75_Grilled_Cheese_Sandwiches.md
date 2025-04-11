@@ -47,9 +47,7 @@ you need to eat American
 cheese singles.
 ```
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 they make sealed grilled cheese as long as a) you line up the cheese and
 bread perfectly and b) you unplug them when the light goes off. If either of
 these points are not observed, cheese bubbles out and you have to clean the

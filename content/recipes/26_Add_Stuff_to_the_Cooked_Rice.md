@@ -47,9 +47,7 @@ tra chilis in it for spice
 fiends like Rachel.
 ```
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Canned beans. As always, drained and rinsed. _We talk about this in_ Bean
 Salad_. Skip ahead. Break the rules._
 

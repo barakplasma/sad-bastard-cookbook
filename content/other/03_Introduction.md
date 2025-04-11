@@ -108,9 +108,7 @@ tears count as
 vegan.
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - At the end of this book, we have listed our personal top picks for _Core
 Ingredients to Keep in Your Kitchen_. These are things that you can stock up
 on when you’re in decent enough shape to go grocery shopping. It’s not

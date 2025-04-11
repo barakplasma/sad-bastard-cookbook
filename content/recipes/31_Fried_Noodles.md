@@ -45,9 +45,7 @@ by “noodles.“ Look, we promised easy,
 not creative.
 ```
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Udon noodles can be used straight out of the package without cooking
 them first.
 

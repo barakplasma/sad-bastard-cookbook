@@ -92,9 +92,7 @@ Lunch: Leftover lentils in a pot
 Dinner: Rice with fresh or frozen vegetables (chop a bit of extra vegetables)
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 _Saturday_
 Hey, you got up in time for breakfast! Go you!: Peanut butter balls with
 chickpeas

@@ -50,9 +50,7 @@ is the nature of
 time and reality?
 ```
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Add cheese. Feta, blue cheese, or cheddar are tops in salad.
 
 - Add black beans, guacamole, and salsa to make a taco salad.

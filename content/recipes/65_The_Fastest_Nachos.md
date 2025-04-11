@@ -43,9 +43,7 @@ jalapenos are hot enough.
 - Cut up raw onion, if you’re into that.
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 **Variations: For Dipping After Cooking**
 - Salsa
 

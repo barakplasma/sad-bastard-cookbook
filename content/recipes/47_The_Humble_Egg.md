@@ -90,9 +90,7 @@ you’ve got a method to tell cooked and raw eggs apart in the fridge. Drawing s
 faces on the shell works wonders._
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 **God-Tier**
 - Cook in onions and tomatoes.
 

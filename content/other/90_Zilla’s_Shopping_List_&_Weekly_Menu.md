@@ -52,9 +52,7 @@ title = "Zilla’s Shopping List & Weekly Menu"
 - Canned minestrone soup (two cans)
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Canned lentils
 
 - Canned black beans

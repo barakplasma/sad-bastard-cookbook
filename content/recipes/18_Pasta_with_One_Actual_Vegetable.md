@@ -1,5 +1,5 @@
 +++
-title = "Actual Vegetable"
+title = "Pasta with One 1 Actual Vegetable"
 +++
 
 This recipe is also God-Tier since it involves cooking both pasta and spinach.
@@ -39,9 +39,7 @@ spinach is far too much effort. If you buy frozen, get the kind that comes in ch
 not in a giant block. Defrosting the giant block takes an annoyingly long time._
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Or radish greens instead of spinach. They’re basically identical except for
 being cheaper.
 

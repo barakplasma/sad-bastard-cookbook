@@ -44,9 +44,7 @@ the smallest unit of measurement
 that you can actually see.
 ```
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 **Mid-Tier: Moroccan Style**
 Add some or all of these ingredients, depending on what’s in your kitchen.
 Spices can be added before or after cooking.

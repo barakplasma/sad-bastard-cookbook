@@ -46,9 +46,7 @@ True facts; we asked
 a jar of relish.
 ```
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Microwave baked beans from a can and pour them on top.
 
 - Put shredded cheddar cheese on top. Or other cheese.

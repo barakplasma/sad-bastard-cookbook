@@ -40,9 +40,7 @@ ourselves, here’s a few things which are specifically good on fried rice.
 around, put it on.
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Our personal favourite fried rice sauce is soy sauce and sesame oil.
 
 - Garlic and onions. Add these during the vegetable step. You can buy pre-

@@ -108,9 +108,7 @@ by-
 products.
 ```
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - **Canned beans**. Dried beans are cheaper than canned, but they take a lot
 more prep. Like, hours more. Canned beans are already plenty cheap. A
 **bean medley** will let you make bean salad, **lentils** make great soup, and

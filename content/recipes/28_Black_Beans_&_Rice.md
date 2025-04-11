@@ -38,9 +38,7 @@ you only want a little._
 - Stir and eat.
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 **God-Tier: Almost Like Rice and Peas**
 Authentic rice and peas are a staple of Jamaican cuisine and taste amazing.
 This is not that.

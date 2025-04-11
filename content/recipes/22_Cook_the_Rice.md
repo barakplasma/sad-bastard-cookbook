@@ -83,9 +83,7 @@ instead of staying moist and getting moldy.
 the rice.
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Cover the rice with the lid and turn off the stove.
 
 - Leave the pot on the stove (with the heat off) for ten minutes or so.

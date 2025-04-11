@@ -42,9 +42,7 @@ blend it.
 - Frozen fruit
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 - Fresh fruit
 
 - Yogurt

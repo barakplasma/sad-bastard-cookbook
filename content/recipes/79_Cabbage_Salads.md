@@ -39,9 +39,7 @@ of vinegar if you don’t have white vinegar at home._
 - This makes excellent leftovers—it’s even better day two.
 
 
-```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-```
+
 **Preparation III: Bottom-Tier Japanese Addictive Cabbage**
 - Season shredded cabbage with the powder from your instant ramen
 noodles.
