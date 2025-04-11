@@ -35,9 +35,9 @@ quantities you like best in the margins. Personalize this book._
 
 - Mix together:
 
-Flour (100 g)
-Water (300 g a.k.a. 300 mL)
-1 raw egg
+- Flour (100 g)
+- Water (300 g a.k.a. 300 mL)
+- 1 raw egg
 
 until they turn into pancake batter.
 
@@ -49,10 +49,10 @@ These pancakes are as flat as the spaceship that crashed into the asteroid in Al
 
 - Mix together:
 
-Flour (2 cups)
-Water (2 cups)
-Baking powder (2 teaspoons)
-2 raw eggs
+- Flour (2 cups)
+- Water (2 cups)
+- Baking powder (2 teaspoons)
+- 2 raw eggs
 
 until they turn into pancake batter.
 
@@ -63,11 +63,11 @@ until they turn into pancake batter.
 
 - Mix together:
 
-Flour (2 cups)
-Water (1.5 cups)
-Baking powder (3 teaspoons)
-2 raw eggs (optional)
-Dollop of vegetable oil
+- Flour (2 cups)
+- Water (1.5 cups)
+- Baking powder (3 teaspoons)
+- 2 raw eggs (optional)
+- Dollop of vegetable oil
 
 until they turn into pancake batter.
 
@@ -83,10 +83,10 @@ _These are a bit more complicated, but we didn’t want to leave vegans out of t
 pancake adventures. The previous recipe can be veganized deliciously, but this one
 doesn’t even call for eggs._
 
-- Mix together:
-Dry instant yeast (2 teaspoons)
-Sugar (2 teaspoons)
-Room temperature water\* (2 cups)
+Mix together:
+- Dry instant yeast (2 teaspoons)
+- Sugar (2 teaspoons)
+- Room temperature water\* (2 cups)
 
 ```
 * Yeast will grow best in slightly warm water. They’ll grow a bit slower in cold
@@ -103,21 +103,16 @@ Let it sit for a few minutes for the yeast to do its thing. Make yourself a cup 
 - Mix until it turns into pancake batter.
 
 # **Preparation V: Pancake Mix from a Box**
-If you’re dealing with something like depression, pre-mixed ingredients can be a
-gift. They’re more expensive than the individual ingredients. Our society makes it
-financially costly to be physically or mentally unwell because it doesn’t consider
-human life to be intrinsically valuable. We have opinions on our society.
+If you’re dealing with something like depression, pre-mixed ingredients can be a gift. They’re more expensive than the individual ingredients. Our society makes it financially costly to be physically or mentally unwell because it doesn’t consider human life to be intrinsically valuable. We have opinions on our society.
 
 If you do buy boxed mix, we highly recommend getting the version where
-all you add is water and butter. If you’re adding eggs and milk, you might be
-paying four times as much for flour in a box. Don’t waste your money on the
-Pancake Industrial Complex.
+all you add is water and butter. If you’re adding eggs and milk, you might be paying four times as much for flour in a box. Don’t waste your money on the Pancake Industrial Complex.
 
-- Mix together:
+Mix together:
 
 Whatever the box suggests until it turns into pancake batter.
 
-**Preparation: Do This No Matter What**
+# **Preparation: Do This No Matter What**
 
 - Turn on medium heat and let the pan warm up a bit. Or not, if you’re
   hungry and rushing.
