@@ -1,48 +1,20 @@
-# --- START OF FILE sad-bastard-cookbook-main/config.toml ---
-
-# The base URL of the site (e.g., https://your-username.github.io/sad-bastard-cookbook/)
-# **IMPORTANT**: Replace with your actual GitHub Pages URL once known.
-# Start with "/" for local testing, update before final deployment.
-#base_url = "/"
+# The URL the site will be built for
 base_url = "https://barakplasma.github.io/sad-bastard-cookbook/"
-# The site title
-title = "The Sad Bastard Cookbook"
-# The site description (optional)
-description = "Food you can make so you don’t die."
 
-# Theme - Use the new 'sadbastard' theme
 theme = "sadbastard"
 
-# Compile SASS? We're using plain CSS
+# Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
-# Build search index? Useful for finding recipes
+# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-# Default language
 default_language = "en"
 
-# Generate feed? Not needed for this cookbook
-generate_feed = false
-
-# Taxonomies (like tags/categories) - disable if not used for simplicity
-taxonomies = [
-    # {name = "categories", feed = true},
-    # {name = "tags", feed = true},
-]
-
 [markdown]
-# Render heading links? Useful for the internal links in your content
-render_emoji = true
-external_links_target_blank = true
-external_links_no_follow = true
-external_links_no_referrer = true
-smart_punctuation = true
-
-[slugify]
-paths = "on"
-taxonomies = "on"
-anchors = "on"
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
 
 [extra]
-# Add any custom variables here if needed later
+# Put all your custom variables here
