@@ -1,5 +1,5 @@
 +++
-title = "Black Beans & Rice"
+title = "Another Rice Variation: Black Beans & Rice"
 +++
 
 This is probably two or three meals for one person, and it reheats well. It

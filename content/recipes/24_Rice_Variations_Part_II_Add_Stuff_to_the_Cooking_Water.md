@@ -1,5 +1,5 @@
 +++
-title = "Add Stuff to the Cooking Water"
+title = "Rice Variations Part II: Add Stuff to the Cooking Water"
 +++
 
 If you add flavouring to the cooking water, the rice absorbs it as it cooks.

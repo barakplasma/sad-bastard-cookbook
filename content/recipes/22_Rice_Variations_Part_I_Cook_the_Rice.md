@@ -1,5 +1,5 @@
 +++
-title = "Cook the Rice"
+title = "Rice Variations Part I: Cook the Rice"
 +++
 
 There are lots of types of white rice, like long-grain, parboiled, basmati, etc.

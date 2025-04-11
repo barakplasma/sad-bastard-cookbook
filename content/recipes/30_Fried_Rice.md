@@ -1,5 +1,5 @@
 +++
-title = "Fried Rice"
+title = "Rice Variations Part IV: Fried Rice"
 +++
 
 This is our favourite thing to do with leftover rice. It’s so delicious and easy
