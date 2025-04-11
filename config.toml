@@ -1,16 +1,49 @@
-# The URL the site will be built for
-base_url = "https://barakplasma.github.io/sad-bastard-cookbook/"
+# The base URL of the site (e.g., https://your-username.github.io/sad-bastard-cookbook/)
+# **IMPORTANT**: Replace with your actual GitHub Pages URL once known.
+# Start with "/" for local testing, update before final deployment.
+base_url = "/"
+#base_url = "https://barakplasma.github.io/sad-bastard-cookbook/"
+# The site title
+title = "The Sad Bastard Cookbook"
+# The site description (optional)
+description = "Food you can make so you don’t die."
 
-# Whether to automatically compile all Sass files in the sass directory
+# Theme - we are not using one here, but keep the key
+theme = ""
+
+# Syntax highlighting (optional, but nice for code if you add any)
+highlight_code = false
+
+# Compile SASS? We're using plain CSS
 compile_sass = false
 
-# Whether to build a search index to be used later on by a JavaScript library
+# Build search index? Useful for finding recipes
 build_search_index = true
 
+# Default language
+default_language = "en"
+
+# Generate feed? Not needed for this cookbook
+generate_feed = false
+
+# Taxonomies (like tags/categories) - disable if not used for simplicity
+taxonomies = [
+    # {name = "categories", feed = true},
+    # {name = "tags", feed = true},
+]
+
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+# Render heading links? Useful for the internal links in your content
+render_emoji = true
+external_links_target_blank = true
+external_links_no_follow = true
+external_links_no_referrer = true
+smart_punctuation = true
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
 
 [extra]
-# Put all your custom variables here
+# Add any custom variables here if needed later
