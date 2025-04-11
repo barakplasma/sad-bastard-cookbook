@@ -1,5 +1,5 @@
 +++
-title = "Weekly Menu"
+title = "Rachel’s “Three Meals a Day are Cognitive Overload” Shopping List & Weekly Menu"
 +++
 
 Meal planning is a lot of work, and most of the time I can’t manage to eat
@@ -45,8 +45,6 @@ so I generally substitute cashew or almond butter for the peanut butter.
 
 - Pasta noodles
 
-
-
 - Pasta sauce
 
 - Tortilla wraps
@@ -67,19 +65,24 @@ or frozen)
 - Various condiments of your choice, but maybe you already have these
 
 **Weekly Menu**
+
+
 _Monday_
 Lunch: Hummus with crackers or carrots
 Dinner: Ramen with various vegetables, soy sauce, and sesame oil
 Dessert: Peanut butter balls with chickpeas, which you can eat as a snack or
 breakfast throughout the rest of the week
 
+
 _Tuesday_
 Lunch: Bagged salad with dressing
 Dinner: Pasta with tomato sauce
 
+
 _Wednesday_
 Lunch: Leftover pasta
 Dinner: Apocalypse ramen
+
 
 _Thursday_
 Lunch: Hummus wrap
@@ -87,10 +90,10 @@ Dinner: Lentils in a pot with berbere or curry powder. You can use chickpeas
 instead if you don’t want to buy two types of beans. Make enough for
 tomorrow.
 
+
 _Friday_
 Lunch: Leftover lentils in a pot
 Dinner: Rice with fresh or frozen vegetables (chop a bit of extra vegetables)
-
 
 
 _Saturday_
@@ -100,6 +103,7 @@ Lunch: Tanzanian braised cabbage served over instant rice (save some of the
 cabbage!)
 Dinner: Baked potato with garlic and oil (make 2 and save one for tomorrow
 morning)
+
 
 _Sunday_
 Brunch: Bubble and squeak
