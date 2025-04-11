@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block title %}{{ config.title }}{% endblock title %}
+
+{% block content %}
+    {# Load the content specifically from 00-cover.md #}
+    {% set cover_page = get_page(path="content/00-cover.md") %}
+    {{ cover_page.content | safe }}
+{% endblock content %}

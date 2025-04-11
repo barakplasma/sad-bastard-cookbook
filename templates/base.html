@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ config.default_language }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+</head>
+<body>
+    <aside id="sidebar">
+        <h2><a href="{{ config.base_url | safe }}">{{ config.title }}</a></h2>
+        <nav>
+            <ul>
+                {% set section = get_section(path="content/_index.md") %}
+                {% for page in section.pages %}
+                    {# Skip rendering the cover page explicitly in sidebar if it's the index #}
+                    {% if page.relative_path != "00-cover.md" %}
+                        <li>
+                            <a {% if current_path == page.path %}class="active"{% endif %} href="{{ page.permalink | safe }}">
+                                {# Clean up title: remove prefix, replace hyphens #}
+                                {{ page.title | trim_start_matches(pat="^[0-9]+-") | replace(from="-", to=" ") | title }}
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </nav>
+    </aside>
+    <main id="main-content">
+        {% block content %}
+            {# Default content if block is not overridden #}
+        {% endblock content %}
+    </main>
+</body>
+</html>
