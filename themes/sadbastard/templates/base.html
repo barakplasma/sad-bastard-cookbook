@@ -12,7 +12,7 @@
     <header>
         <nav>
             {% if current_path != "toc.md" %}
-                <a href="{{ get_page(path='toc.md').permalink }}">Contents</a>
+                <a href="{{ get_page(path='toc.md') }}">Contents</a>
             {% endif %}
 
             {% if current_path == "toc.md" %}
@@ -27,7 +27,7 @@
         {% if current_path != "toc.md" %}
             <nav>
                 <ul>
-                    <li><a href="{{ get_page(path='toc.md').permalink }}" role="button">↑ Contents</a></li>
+                    <li><a href="{{ get_page(path='toc.md') }}" role="button">↑ Contents</a></li>
                 </ul>
             </nav>
         {% endif %}
