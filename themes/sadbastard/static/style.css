@@ -1,19 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css');
 
 :root {
-    --bg-color: #fdfdfd;
-    --text-color: #333;
-    --heading-color: #111;
-    --sidebar-bg: #f0f0f0;
-    --sidebar-border: #ddd;
-    --sidebar-link: #444;
-    --sidebar-link-hover: #000;
-    --sidebar-active-bg: #e0e0e0;
-    --accent-color: #a0a0a0; /* Muted accent */
-    --blockquote-border: #ccc;
-    --blockquote-text: #555;
-    --code-bg: #e8e8e8;
-    --border-color: #eee;
+    --bg-color: #f8f9fa; /* Bootstrap light background */
+    --text-color: #212529; /* Bootstrap text color */
+    --heading-color: #343a40; /* Bootstrap dark text */
+    --accent-color: #0d6efd; /* Bootstrap primary color */
+    --blockquote-border: #dee2e6;
+    --blockquote-text: #495057;
+    --code-bg: #f8f9fa;
+    --border-color: #dee2e6;
 
     --font-body: 'Merriweather', serif;
     --font-heading: 'Lato', sans-serif;
@@ -31,24 +27,24 @@ body {
 
 #sidebar {
     width: 280px;
-    flex-shrink: 0; /* Prevent sidebar from shrinking */
+    flex-shrink: 0;
     height: 100vh;
     overflow-y: auto;
-    background-color: var(--sidebar-bg);
-    border-right: 1px solid var(--sidebar-border);
+    background-color: var(--bg-color);
+    border-right: 1px solid var(--border-color);
     padding: 25px;
-    box-sizing: border-box; /* Include padding in width */
-    position: sticky; /* Keep sidebar visible */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: sticky;
     top: 0;
 }
 
 #sidebar h2 {
     font-family: var(--font-heading);
-    font-size: 1.3em;
+    font-size: 1.5rem;
     color: var(--heading-color);
-    margin: 0 0 20px 0;
-    border-bottom: 1px solid var(--sidebar-border);
-    padding-bottom: 10px;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 0.5rem;
 }
 
 #sidebar nav ul {
@@ -58,23 +54,23 @@ body {
 }
 
 #sidebar nav li {
-    margin-bottom: 8px;
+    margin-bottom: 0.5rem;
 }
 
 #sidebar nav a {
     font-family: var(--font-heading);
     text-decoration: none;
-    color: var(--sidebar-link);
+    color: var(--accent-color);
     display: block;
-    padding: 5px 10px;
-    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
     transition: background-color 0.2s ease, color 0.2s ease;
-    font-size: 0.95em;
+    font-size: 1rem;
 }
 
 #sidebar nav a:hover {
-    background-color: var(--sidebar-active-bg);
-    color: var(--sidebar-link-hover);
+    background-color: var(--accent-color);
+    color: white;
 }
 
 #sidebar nav a.active {
@@ -83,34 +79,35 @@ body {
     font-weight: bold;
 }
 
-
 #main-content {
     flex-grow: 1;
-    padding: 30px 50px;
-    max-width: 850px; /* Comfortable reading width */
-    margin: 0 auto; /* Center the content area */
-    box-sizing: border-box;
+    padding: 2rem;
+    max-width: 850px;
+    margin: 0 auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border-radius: 0.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-heading);
     color: var(--heading-color);
-    margin-top: 2em;
-    margin-bottom: 0.8em;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
     line-height: 1.3;
 }
 
 h1 {
-    font-size: 2.4em;
-    border-bottom: 1px solid var(--border-color);
-    padding-bottom: 0.3em;
+    font-size: 2.5rem;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 0.5rem;
 }
 
-h2 { font-size: 1.8em; }
-h3 { font-size: 1.4em; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
 
 p {
-    margin-bottom: 1.2em;
+    margin-bottom: 1.5rem;
 }
 
 a {
@@ -123,72 +120,66 @@ a:hover {
 }
 
 blockquote {
-    margin-left: 0; /* Reset margin */
-    margin-right: 0;
-    padding: 10px 20px;
+    margin: 1.5rem 0;
+    padding: 1rem 1.5rem;
     border-left: 4px solid var(--blockquote-border);
-    background-color: #f9f9f9;
+    background-color: #f8f9fa;
     color: var(--blockquote-text);
     font-style: italic;
+    border-radius: 0.25rem;
 }
 
 pre {
     background-color: var(--code-bg);
-    padding: 15px;
+    padding: 1rem;
     overflow-x: auto;
-    border-radius: 4px;
-    border: 1px solid #ddd;
-    font-size: 0.9em;
+    border-radius: 0.25rem;
+    border: 1px solid var(--border-color);
+    font-size: 0.9rem;
     line-height: 1.5;
 }
 
 code {
     font-family: monospace;
     background-color: var(--code-bg);
-    padding: 0.2em 0.4em;
-    border-radius: 3px;
-    font-size: 0.9em;
-}
-
-pre code {
-    background-color: transparent;
-    padding: 0;
-    border-radius: 0;
-    font-size: inherit; /* Inherit font size from pre */
+    padding: 0.2rem 0.4rem;
+    border-radius: 0.25rem;
+    font-size: 0.9rem;
 }
 
 ul, ol {
-    padding-left: 30px;
-    margin-bottom: 1.2em;
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
 li {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.5rem;
 }
 
 img {
     max-width: 100%;
     height: auto;
-    display: block; /* Prevent extra space below image */
-    margin: 1.5em auto; /* Center images with some space */
-    border-radius: 4px;
+    display: block;
+    margin: 1.5rem auto;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Table styling (if needed later) */
+/* Table styling */
 table {
     width: 100%;
     border-collapse: collapse;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.5rem;
 }
 
 th, td {
     border: 1px solid var(--border-color);
-    padding: 8px 12px;
+    padding: 0.75rem;
     text-align: left;
 }
 
 th {
-    background-color: var(--sidebar-bg);
+    background-color: var(--bg-color);
     font-weight: bold;
     font-family: var(--font-heading);
 }
@@ -196,25 +187,25 @@ th {
 /* Responsive adjustments */
 @media (max-width: 768px) {
     body {
-        flex-direction: column; /* Stack elements */
+        flex-direction: column;
     }
 
     #sidebar {
         width: 100%;
-        height: auto; /* Allow height to adjust */
-        position: static; /* Remove sticky positioning */
+        height: auto;
+        position: static;
         border-right: none;
-        border-bottom: 1px solid var(--sidebar-border);
-        padding: 15px;
+        border-bottom: 1px solid var(--border-color);
+        padding: 1rem;
     }
 
     #main-content {
-        padding: 20px;
-        max-width: 100%; /* Use full width */
+        padding: 1.5rem;
+        max-width: 100%;
         margin: 0;
     }
 
-    h1 { font-size: 2em; }
-    h2 { font-size: 1.6em; }
-    h3 { font-size: 1.3em; }
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.75rem; }
+    h3 { font-size: 1.25rem; }
 }
