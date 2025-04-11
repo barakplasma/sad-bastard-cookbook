@@ -1,5 +1,6 @@
 +++
 title = "Can of Soup"
+[taxonomies]
 tags = ["soup", "quick", "pantry", "customizable", "lazy"]
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Ice Cream"
+[taxonomies]
 tags = ["dessert", "frozen", "sweet", "quick", "customizable"]
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Peanut Butter on a Spoon"
+[taxonomies]
 tags = ["snack", "quick", "peanut-butter", "lazy", "energy"]
 +++
 

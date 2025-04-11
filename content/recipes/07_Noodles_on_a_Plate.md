@@ -1,5 +1,6 @@
 +++
 title = "Noodles on a Plate"
+[taxonomies]
 tags = ["vegetarian", "noodles", "quick", "customizable", "asian-inspired"]
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Tanzanian Braised Coconut Cabbage"
+[taxonomies]
 tags = ["vegan", "vegetarian", "cabbage", "coconut", "stove", "healthy"]
 +++
 

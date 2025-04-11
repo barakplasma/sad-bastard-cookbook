@@ -1,5 +1,6 @@
 +++
 title = "Dumplings"
+[taxonomies]
 tags = ["vegetarian", "dumplings", "quick", "comfort-food", "pantry"]
 +++
 

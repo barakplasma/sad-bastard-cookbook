@@ -1,5 +1,6 @@
 +++
 title = "Spring Rolls"
+[taxonomies]
 tags = ["vegetarian", "spring-rolls", "quick", "asian-inspired", "snack"]
 +++
 

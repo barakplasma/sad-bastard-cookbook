@@ -1,5 +1,6 @@
 +++
 title = "Chips"
+[taxonomies]
 tags = ["snack", "quick", "chips", "customizable", "dips"]
 +++
 

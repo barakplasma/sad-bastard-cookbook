@@ -1,5 +1,6 @@
 +++
 title = "Hangover Bubble and Squeak"
+[taxonomies]
 tags = ["vegetarian", "potatoes", "leftovers", "quick", "comfort-food"]
 +++
 

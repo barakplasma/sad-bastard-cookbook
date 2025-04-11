@@ -1,5 +1,6 @@
 +++
 title = "Pasta with Homemade Tomato Sauce"
+[taxonomies]
 tags = ["vegetarian", "pasta", "tomato", "quick", "healthy", "one-pot"]
 +++
 

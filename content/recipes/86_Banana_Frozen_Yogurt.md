@@ -1,5 +1,6 @@
 +++
 title = "Banana Frozen Yogurt"
+[taxonomies]
 tags = ["vegetarian", "dessert", "banana", "frozen", "quick", "healthy"]
 +++
 

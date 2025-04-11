@@ -1,5 +1,6 @@
 +++
 title = "Cabbage Salads"
+[taxonomies]
 tags = ["vegan", "vegetarian", "salad", "cabbage", "quick", "healthy", "pantry"]
 +++
 

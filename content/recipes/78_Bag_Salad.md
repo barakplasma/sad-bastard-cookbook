@@ -1,5 +1,6 @@
 +++
 title = "Bag Salad"
+[taxonomies]
 tags = ["vegetarian", "salad", "quick", "customizable", "healthy"]
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Parfait"
+[taxonomies]
 tags = ["vegetarian", "dessert", "quick", "fruit", "yogurt", "layered"]
 +++
 

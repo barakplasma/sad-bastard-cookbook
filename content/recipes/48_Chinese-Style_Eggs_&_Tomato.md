@@ -1,5 +1,6 @@
 +++
 title = "Chinese-Style Eggs & Tomato"
+[taxonomies]
 tags = ["vegetarian", "eggs", "tomato", "quick", "asian-inspired", "comfort-food"]
 +++
 

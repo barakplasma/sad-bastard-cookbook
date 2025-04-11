@@ -1,5 +1,6 @@
 +++
 title = "Korean-Inspired Pancakes"
+[taxonomies]
 tags = ["vegetarian", "pancakes", "quick", "asian-inspired", "customizable"]
 +++
 

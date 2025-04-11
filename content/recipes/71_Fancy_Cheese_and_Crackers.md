@@ -1,5 +1,6 @@
 +++
 title = "Fancy Cheese and Crackers"
+[taxonomies]
 tags = ["vegetarian", "cheese", "crackers", "snack", "quick", "party"]
 +++
 

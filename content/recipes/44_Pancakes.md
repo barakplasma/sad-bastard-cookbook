@@ -1,5 +1,6 @@
 +++
 title = "Pancakes"
+[taxonomies]
 tags = ["vegetarian", "breakfast", "pancakes", "quick", "customizable"]
 +++
 

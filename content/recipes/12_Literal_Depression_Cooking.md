@@ -1,5 +1,6 @@
 +++
 title = "Literal Depression Cooking"
+[taxonomies]
 tags = ["vegetarian", "pasta", "cheese", "ketchup", "quick", "comfort-food"]
 +++
 

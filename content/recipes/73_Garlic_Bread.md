@@ -1,5 +1,6 @@
 +++
 title = "Garlic Bread"
+[taxonomies]
 tags = ["vegetarian", "bread", "garlic", "quick", "side-dish"]
 +++
 

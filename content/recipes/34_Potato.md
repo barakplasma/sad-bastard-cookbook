@@ -1,5 +1,6 @@
 +++
 title = "Potato Variations and Preparations"
+[taxonomies]
 tags = ["vegetarian", "potatoes", "versatile", "quick", "comfort-food"]
 +++
 

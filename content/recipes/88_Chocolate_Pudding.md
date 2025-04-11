@@ -1,5 +1,6 @@
 +++
 title = "Chocolate Pudding"
+[taxonomies]
 tags = ["vegan", "vegetarian", "dessert", "chocolate", "pudding", "quick", "microwave", "pantry", "gluten-free"]
 +++
 

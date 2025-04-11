@@ -1,5 +1,6 @@
 +++
 title = "Ramen Variations and Preparations"
+[taxonomies]
 tags = ["vegetarian", "ramen", "quick", "soup", "customizable", "asian-inspired"]
 +++
 

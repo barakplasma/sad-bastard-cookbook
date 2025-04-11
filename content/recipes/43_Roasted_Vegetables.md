@@ -1,5 +1,6 @@
 +++
 title = "Roasted Vegetables"
+[taxonomies]
 tags = ["vegan", "vegetarian", "vegetables", "roasted", "healthy", "side-dish"]
 +++
 

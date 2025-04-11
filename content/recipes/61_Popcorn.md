@@ -1,5 +1,6 @@
 +++
 title = "Popcorn"
+[taxonomies]
 tags = ["snack", "quick", "popcorn", "customizable", "movie-night"]
 +++
 

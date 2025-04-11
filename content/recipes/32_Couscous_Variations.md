@@ -1,5 +1,6 @@
 +++
 title = "Couscous Variations"
+[taxonomies]
 tags = ["vegan", "vegetarian", "couscous", "quick", "customizable", "pantry"]
 +++
 

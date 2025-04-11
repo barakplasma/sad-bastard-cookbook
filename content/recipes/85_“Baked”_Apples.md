@@ -1,5 +1,6 @@
 +++
 title = "“Baked” Apples"
+[taxonomies]
 tags = ["vegetarian", "dessert", "apple", "microwave", "quick", "healthy"]
 +++
 

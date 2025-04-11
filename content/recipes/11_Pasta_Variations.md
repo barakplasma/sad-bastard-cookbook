@@ -1,5 +1,6 @@
 +++
 title = "Pasta Variations"
+[taxonomies]
 tags = ["vegan", "vegetarian", "pasta", "quick", "staple", "tomato-sauce", "cheese", "vegetables", "beans", "low-carb-option", "gnocchi", "pantry"]
 +++
 

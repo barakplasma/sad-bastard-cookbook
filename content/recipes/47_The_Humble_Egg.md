@@ -1,5 +1,6 @@
 +++
 title = "The Humble Egg"
+[taxonomies]
 tags = ["vegetarian", "eggs", "quick", "protein", "versatile"]
 +++
 

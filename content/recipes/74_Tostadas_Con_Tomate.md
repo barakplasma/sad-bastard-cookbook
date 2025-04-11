@@ -1,5 +1,6 @@
 +++
 title = "Tostadas Con Tomate"
+[taxonomies]
 tags = ["vegetarian", "quick", "bread", "tomato", "spanish-inspired"]
 +++
 

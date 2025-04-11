@@ -1,5 +1,6 @@
 +++
 title = "Oatmeal Variations"
+[taxonomies]
 tags = ["vegetarian", "breakfast", "oatmeal", "quick", "healthy", "customizable"]
 +++
 

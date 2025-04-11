@@ -1,5 +1,6 @@
 +++
 title = "Eggy Pasta"
+[taxonomies]
 tags = ["vegetarian", "pasta", "eggs", "quick", "one-pan", "comfort-food"]
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Cheater Chana Masala"
+[taxonomies]
 tags = ["vegan", "vegetarian", "chickpeas", "quick", "indian-inspired", "pantry"]
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Hummus"
+[taxonomies]
 tags = ["vegan", "vegetarian", "dip", "chickpeas", "quick", "healthy"]
 +++
 
@@ -44,5 +45,3 @@ on your way to the activist potluck.
 Unless Ian from Cascade bought the last
 marked-down tub.
 ```
-
-### 108

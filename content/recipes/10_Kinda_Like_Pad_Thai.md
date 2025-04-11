@@ -1,5 +1,6 @@
 +++
 title = "Kinda Like Pad Thai"
+[taxonomies]
 tags = ["vegetarian", "noodles", "quick", "peanut-butter", "asian-inspired", "customizable"]
 +++
 

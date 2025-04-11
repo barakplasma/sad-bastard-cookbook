@@ -1,5 +1,6 @@
 +++
 title = "Eggs & Bread Variations"
+[taxonomies]
 tags = ["vegetarian", "eggs", "bread", "quick", "breakfast", "comfort-food"]
 +++
 

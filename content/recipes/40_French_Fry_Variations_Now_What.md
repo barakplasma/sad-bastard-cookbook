@@ -1,5 +1,6 @@
 +++
 title = "French Fry Variations: Now What?"
+[taxonomies]
 tags = ["vegetarian", "fries", "quick", "customizable", "snack"]
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Quesadillas & Pumpki-dillas Part II: Variations"
+[taxonomies]
 tags = ["vegetarian", "quesadilla", "quick", "cheese", "customizable"]
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Pasta in a Rice Cooker"
+[taxonomies]
 tags = ["vegetarian", "pasta", "quick", "one-pot", "lazy", "pantry"]
 +++
 
