@@ -22,7 +22,7 @@ any meal_.
 
 - Eggs or baking powder or yeast & sugar (depends on the recipe)
 
-**Preparation I: Irish-Style Pancake Batter**
+# **Preparation I: Irish-Style Pancake Batter**
 These make a flatter pancake than American-style
 fluffy pancakes. A more refined, European pancake.
 Something heading in the direction of a crepe, but not
@@ -35,51 +35,39 @@ quantities you like best in the margins. Personalize this book._
 
 - Mix together:
 
-# Flour (100 g)
-
-# Water (300 g a.k.a. 300 mL)
-
-# 1 raw egg
+Flour (100 g)
+Water (300 g a.k.a. 300 mL)
+1 raw egg
 
 until they turn into pancake batter.
 
 ```
-These pancakes are as
-flat as the spaceship
-that crashed into the
-asteroid in Alinda.
+These pancakes are as flat as the spaceship that crashed into the asteroid in Alinda.
 ```
 
-**Preparation II: “Two of Everything” Fluffy Pancakes**
+# **Preparation II: “Two of Everything” Fluffy Pancakes**
 
 - Mix together:
 
-# Flour (2 cups)
-
-# Water (2 cups)
-
-# Baking powder (2 teaspoons)
-
-# 2 raw eggs
+Flour (2 cups)
+Water (2 cups)
+Baking powder (2 teaspoons)
+2 raw eggs
 
 until they turn into pancake batter.
 
 - Let it sit for a few minutes for the baking powder to do its thing. _Make
   yourself a cup of coffee._
 
-**Preparation III: “Even Fluffier” Fluffy Pancakes (Can be Veganized)**
+# **Preparation III: “Even Fluffier” Fluffy Pancakes (Can be Veganized)**
 
 - Mix together:
 
-# Flour (2 cups)
-
-# Water (1.5 cups)
-
-# Baking powder (3 teaspoons)
-
-# 2 raw eggs (optional)
-
-# Dollop of vegetable oil
+Flour (2 cups)
+Water (1.5 cups)
+Baking powder (3 teaspoons)
+2 raw eggs (optional)
+Dollop of vegetable oil
 
 until they turn into pancake batter.
 
@@ -90,18 +78,15 @@ until they turn into pancake batter.
   more if it’s too thick. You can always add more flour if it ends up too
   liquidy. _Repeat this process forever to end up with infinite pancake batter._
 
-**Preparation IV: Vegan Pancakes with Yeast**
+# **Preparation IV: Vegan Pancakes with Yeast**
 _These are a bit more complicated, but we didn’t want to leave vegans out of the
 pancake adventures. The previous recipe can be veganized deliciously, but this one
 doesn’t even call for eggs._
 
 - Mix together:
-
-# Dry instant yeast (2 teaspoons)
-
-# Sugar (2 teaspoons)
-
-# Room temperature water\* (2 cups)
+Dry instant yeast (2 teaspoons)
+Sugar (2 teaspoons)
+Room temperature water\* (2 cups)
 
 ```
 * Yeast will grow best in slightly warm water. They’ll grow a bit slower in cold
@@ -110,16 +95,14 @@ can’t work their yeasty magic.
 ```
 
 ```
-FOOD YOU CAN MAKE SO YOU DON’T DIE
-Let it sit for a few minutes for the yeast to do its thing. Make yourself a cup
-of hot chocolate.
+Let it sit for a few minutes for the yeast to do its thing. Make yourself a cup of hot chocolate.
 ```
 
 - Add flour (2 cups).
 
 - Mix until it turns into pancake batter.
 
-**Preparation V: Pancake Mix from a Box**
+# **Preparation V: Pancake Mix from a Box**
 If you’re dealing with something like depression, pre-mixed ingredients can be a
 gift. They’re more expensive than the individual ingredients. Our society makes it
 financially costly to be physically or mentally unwell because it doesn’t consider
@@ -132,7 +115,7 @@ Pancake Industrial Complex.
 
 - Mix together:
 
-# Whatever the box suggests until it turns into pancake batter.
+Whatever the box suggests until it turns into pancake batter.
 
 **Preparation: Do This No Matter What**
 
@@ -147,18 +130,13 @@ Pancake Industrial Complex.
 
 - You wanna cook the pancake some of the way through so it’s got struc-
   tural integrity, then flip it and cook the bottom. How do you know when
-  it’s time to flip? Crepe-style enthusiasts tell us to swirl the pancake bat-
-  ter around the pan, flip, and serve. Fluffy-pancake connoisseurs speak of
-  waiting for bubbles to appear in the pancake, then flipping and waiting a
-  minute or two. Personally, we adopt a “trial and error” approach.\*\*
+  it’s time to flip? Crepe-style enthusiasts tell us to swirl the pancake batter around the pan, flip, and serve. Fluffy-pancake connoisseurs speak of waiting for bubbles to appear in the pancake, then flipping and waiting a minute or two. Personally, we adopt a “trial and error” approach.\*\*
 
 \*\* _For whatever reason, the first couple of pancakes never turn out as well as the
 later ones. To paraphrase a famous chef, “The pan needs to get to know the pancakes,
 and the pancakes need to get to know the pan.”_
 
-### <
-
-**Variations: Batter**
+### **Variations: Batter**
 Enhance your pancake experience by adding these.
 
 - If you substitute milk or plant milk for the water, you’ll get a richer
@@ -177,7 +155,7 @@ Enhance your pancake experience by adding these.
 
 - Add a dollop of vanilla. Or two.
 
-**Variations: Toppings**
+### **Variations: Toppings**
 
 - Peasant: lemon and sugar
 
