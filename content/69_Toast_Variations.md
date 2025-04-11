@@ -1,4 +1,6 @@
-## Toast Variations }
++++
+title = "Toast Variations"
++++
 
 _Also called toasties_.
 
@@ -14,60 +16,58 @@ on the counter or in the fridge instead of in the freezer. But that sounds
 unlikely.
 
 **Core Ingredients**
-< Bread
+- Bread
 
-< Things that go on toast
+- Things that go on toast
 
 **Preparation**
-< Apply bread to toaster.
+- Apply bread to toaster.
 
-< When toast pops, remove from toaster.
+- When toast pops, remove from toaster.
 
-< Put stuff of choice on toast.
+- Put stuff of choice on toast.
 
-< Optional: put another slice of toast on top to make a “closed-face” sand-
+- Optional: put another slice of toast on top to make a “closed-face” sand-
 wich instead of an “open-faced” sandwich.
 
 **Variations**
 There are nearly infinite toast variations.
 
-< Butter or margarine
+- Butter or margarine
 
-< Peanut butter
+- Peanut butter
 
-< Nutella
+- Nutella
 
-< Marshmallow fluff
+- Marshmallow fluff
 
 
-```
-THE SAD BASTARD COOKBOOK
-```
-< Maple syrup “butter”
 
-< Banana slices with any of the above
+- Maple syrup “butter”
 
-< Butter or margarine & chocolate sprinkles are popular in the Nether-
+- Banana slices with any of the above
+
+- Butter or margarine & chocolate sprinkles are popular in the Nether-
 lands.
 
-< Jam
+- Jam
 
-< Peanut butter & jam
+- Peanut butter & jam
 
-< Cheese
+- Cheese
 
-< _The Humble Egg_ in any cooked form
+- _The Humble Egg_ in any cooked form
 
-< Cheese & jam
+- Cheese & jam
 
-< Cheese & egg
+- Cheese & egg
 
-< Hummus
+- Hummus
 
-< Baked beans from a can, warmed in the microwave. _Beans on toast are
+- Baked beans from a can, warmed in the microwave. _Beans on toast are
 popular in the UK._
 
-< Avocado slices
+- Avocado slices
 
 _Pro-tip: If you’re feeling really good, make part-baked bread rolls you bought from the
 frozen section, but that’s pretty damn ambitious._

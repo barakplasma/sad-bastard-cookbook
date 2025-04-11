@@ -1,65 +1,67 @@
-## Zilla’s Shopping List & Weekly Menu
++++
+title = "Zilla’s Shopping List & Weekly Menu"
++++
 
 **Shopping list**
-< Peanut butter
+- Peanut butter
 
-< Jam
+- Jam
 
-< Instant oatmeal
+- Instant oatmeal
 
-< Cereal
+- Cereal
 
-< Nut & raisin mix
+- Nut & raisin mix
 
-< Cocoa powder
+- Cocoa powder
 
-< Corn starch
+- Corn starch
 
-< Sugar
+- Sugar
 
-< Cinnamon powder
+- Cinnamon powder
 
-< Curry powder
+- Curry powder
 
-< Bread (store in the freezer)
+- Bread (store in the freezer)
 
-< Tortilla wraps
+- Tortilla wraps
 
-< Plant milk
+- Plant milk
 
-< Frozen mixed vegetables
+- Frozen mixed vegetables
 
-< Frozen vegetarian spring rolls
+- Frozen vegetarian spring rolls
 
-< Rice
+- Rice
 
-< Couscous
+- Couscous
 
-< Udon noodles
+- Udon noodles
 
-< Ramen
+- Ramen
 
-< Oil
+- Oil
 
-< Soy sauce
+- Soy sauce
 
-< Sesame oil
+- Sesame oil
 
-< Salsa
+- Salsa
 
-< Canned minestrone soup (two cans)
+- Canned minestrone soup (two cans)
 
 
 ```
 FOOD YOU CAN MAKE SO YOU DON’T DIE
 ```
-< Canned lentils
+- Canned lentils
 
-< Canned black beans
+- Canned black beans
 
-< Sweet potato
+- Sweet potato
 
-< Plantains
+- Plantains
 
 **Weekly Menu**
 _Monday_
@@ -90,9 +92,7 @@ cinnamon powder. Make enough to have
 leftovers.
 
 
-```
-THE SAD BASTARD COOKBOOK
-```
+
 _Friday_
 Breakfast: Toast with peanut butter and jam.
 Lunch: Leftover couscous with nut & raisin mix and cinnamon powder.

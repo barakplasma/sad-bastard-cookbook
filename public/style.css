@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Use flexbox for layout */
+}
+
+#sidebar {
+    width: 250px; /* Fixed width for sidebar */
+    height: 100vh; /* Full height */
+    overflow-y: auto; /* Scrollable if content overflows */
+    padding: 20px;
+    border-right: 1px solid #ccc;
+    background-color: #f8f8f8;
+}
+
+#sidebar h2 {
+    margin-top: 0;
+    font-size: 1.2em;
+}
+
+#sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#sidebar li {
+    margin-bottom: 5px;
+}
+
+#sidebar a {
+    text-decoration: none;
+    color: #333;
+    display: block; /* Make link clickable area bigger */
+    padding: 2px 0;
+}
+
+#sidebar a:hover,
+#sidebar a.active {
+    font-weight: bold;
+    color: #000;
+}
+
+
+#main-content {
+    flex-grow: 1; /* Takes remaining space */
+    padding: 20px 40px;
+    max-width: 800px; /* Limit content width for readability */
+    margin-left: auto; /* Center content area if space allows */
+    margin-right: auto;
+}
+
+h1, h2, h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.2em; }
+
+blockquote {
+    margin-left: 20px;
+    padding-left: 15px;
+    border-left: 3px solid #ccc;
+    color: #555;
+    font-style: italic;
+}
+
+/* Simple code block styling */
+pre {
+    background-color: #eee;
+    padding: 10px;
+    overflow-x: auto;
+}
+
+code {
+    font-family: monospace;
+}
+
+/* Style for vegan marker if desired - optional */
+/* .vegan-marker { color: green; font-weight: bold; } */
+
+/* Ensure images don't overflow */
+img {
+    max-width: 100%;
+    height: auto;
+}

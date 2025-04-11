@@ -1,4 +1,6 @@
-## Weekly Menu
++++
+title = "Weekly Menu"
++++
 
 Meal planning is a lot of work, and most of the time I can’t manage to eat
 three meals a day. I sometimes buy a big box of energy bars and eat them for
@@ -9,62 +11,60 @@ My life is additionally complicated by a peanut butter ban in my workplace,
 so I generally substitute cashew or almond butter for the peanut butter.
 
 **Shopping list**
-< Cooking oil
+- Cooking oil
 
-< Soy sauce
+- Soy sauce
 
-< Sesame oil
+- Sesame oil
 
-< Hummus
+- Hummus
 
-< Tofu
+- Tofu
 
-< Coconut milk
+- Coconut milk
 
-< Ramen/Instant Noodles
+- Ramen/Instant Noodles
 
-< Instant rice
+- Instant rice
 
-< Rice noodles
+- Rice noodles
 
-< Onions
+- Onions
 
-< Garlic
+- Garlic
 
-< Chilies (any kind, though I’m partial to Thai bird’s eye chilis)
+- Chilies (any kind, though I’m partial to Thai bird’s eye chilis)
 
-< Curry powder or berbere
+- Curry powder or berbere
 
-< Chickpeas
+- Chickpeas
 
-< Lentils
+- Lentils
 
-< Nut butter
+- Nut butter
 
-< Pasta noodles
+- Pasta noodles
 
 
-```
-THE SAD BASTARD COOKBOOK
-```
-< Pasta sauce
 
-< Tortilla wraps
+- Pasta sauce
 
-< Chocolate chips
+- Tortilla wraps
 
-< Sugar or maple syrup
+- Chocolate chips
 
-< Vegetables (pre-diced cabbage and whatever else you want, either fresh
+- Sugar or maple syrup
+
+- Vegetables (pre-diced cabbage and whatever else you want, either fresh
 or frozen)
 
-< Potato
+- Potato
 
-< Bagged salad
+- Bagged salad
 
-< Salad dressing
+- Salad dressing
 
-< Various condiments of your choice, but maybe you already have these
+- Various condiments of your choice, but maybe you already have these
 
 **Weekly Menu**
 _Monday_

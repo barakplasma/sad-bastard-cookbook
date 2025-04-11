@@ -1,3 +1,7 @@
++++
+title = "Cover"
++++
+
 # SAD BASTARD
 
 # COOKBOOK

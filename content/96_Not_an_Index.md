@@ -1,4 +1,6 @@
-## Not an Index
++++
+title = "Not an Index"
++++
 
 So here’s the deal: Indexes exist because back in the day, it was impossible to
 use a search function to look for recipes in a cookbook which used a specific

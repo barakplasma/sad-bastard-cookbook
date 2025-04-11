@@ -1,38 +1,40 @@
-## Apple Slices Yes }
++++
+title = "Apple Slices Yes"
++++
 
 **Core Ingredients**
-< Apples
+- Apples
 
 **Preparation**
-< Quarters is the fewest number of cuts you can make and still easily re-
+- Quarters is the fewest number of cuts you can make and still easily re-
 move the core.
 
-< You can cut it into more pieces if you want to.
+- You can cut it into more pieces if you want to.
 
-< If you’re only gonna cut the apple into halves, you might as well just eat
+- If you’re only gonna cut the apple into halves, you might as well just eat
 the whole apple as is.
 
-< If you’re lucky enough to have an apple corer/slicer device, you basically
+- If you’re lucky enough to have an apple corer/slicer device, you basically
 won the apple-eating lottery.
 
 **Variations**
-< Spread with peanut butter in the ratio most
+- Spread with peanut butter in the ratio most
 appealing to you and consume. Or use a
 spoon or melon baller to scoop the seeds out
 and stuff the peanut butter in where they
 were—if you do this, you can get away with
 only cutting the apple into halves.
 
-< Cheese has an added slicing step, unless you
+- Cheese has an added slicing step, unless you
 buy the pre-sliced packs, which some people
 do.
 
-< Either of those could also be combined with
+- Either of those could also be combined with
 crackers.
 
-< Sprinkle cinnamon on top.
+- Sprinkle cinnamon on top.
 
-< Other sliceable fruits, such as pears or peach-
+- Other sliceable fruits, such as pears or peach-
 es, can be enjoyed in similar manners.
 
 ```

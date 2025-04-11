@@ -1,4 +1,6 @@
-## Thank You to Our Contributors
++++
+title = "Thank You to Our Contributors"
++++
 
 It takes a village to write a cookbook. We want to thank the following people
 who suggested recipes, beta read and tested meals, and supported us during
@@ -33,9 +35,7 @@ scenario of layout, but you managed to cut through the Gordian Knot, to mix
 our metaphors like we’d mix a pot of soup.
 
 
-```
-THE SAD BASTARD COOKBOOK
-```
+
 To our tireless team of proofreaders: Anna Borisovskaya, Emma Berglund,
 Nicole Northwood, and Rysz Merey. Your eyes were so helpful, especially
 after we pulled all nighters and couldn’t read our own words anymore.

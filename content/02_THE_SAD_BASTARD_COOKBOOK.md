@@ -1,5 +1,6 @@
-## THE SAD BASTARD COOKBOOK
-
++++
+title = "THE SAD BASTARD COOKBOOK"
++++
 
 - Potato Variations Part IV: French Fries }
 - French Fry Variations: Now What? }

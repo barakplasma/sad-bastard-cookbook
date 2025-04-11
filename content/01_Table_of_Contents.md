@@ -1,4 +1,6 @@
-## Table of Contents
++++
+title = "Table of Contents"
++++
 
 **Content notes:** Mental and physical illness, disordered eating, and dark
 humour throughout, as well as occasional mentions of alcohol, swearing, and

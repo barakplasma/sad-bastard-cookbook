@@ -1,34 +1,36 @@
-## Eggy Pasta
++++
+title = "Eggy Pasta"
++++
 
 **Core Ingredients**
-< Pasta
+- Pasta
 
-< Oil
+- Oil
 
-< Eggs
+- Eggs
 
-< Salt
+- Salt
 
 **Preparation**
-< Cook pasta according to the package directions. See _Pasta Variations_ for
+- Cook pasta according to the package directions. See _Pasta Variations_ for
 more pasta-related witty banter and maybe some cooking advice.
 
-< Toss the pasta in a frying pan with oil on medium heat.
+- Toss the pasta in a frying pan with oil on medium heat.
 
-< Crack eggs over it.
+- Crack eggs over it.
 
-< Stir until cooked.
+- Stir until cooked.
 
-< Add salt as desired.
+- Add salt as desired.
 
 **Variations**
-< Pepper would be an excellent addition here.
+- Pepper would be an excellent addition here.
 
-< Before you add the pasta to the frying pan, chop an onion and fry it in
+- Before you add the pasta to the frying pan, chop an onion and fry it in
 the oil.
 
-< Fry some mushrooms too.
+- Fry some mushrooms too.
 
-< Add grated cheese.
+- Add grated cheese.
 
-< Pairs well with ketchup or hot sauce.
+- Pairs well with ketchup or hot sauce.

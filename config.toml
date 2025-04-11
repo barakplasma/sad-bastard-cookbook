@@ -9,7 +9,7 @@ title = "The Sad Bastard Cookbook"
 description = "Food you can make so you don’t die."
 
 # Theme - we are not using one here, but keep the key
-theme = ""
+#theme = ""
 
 # Syntax highlighting (optional, but nice for code if you add any)
 highlight_code = false

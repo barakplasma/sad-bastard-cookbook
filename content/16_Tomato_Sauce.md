@@ -1,4 +1,6 @@
-## Tomato Sauce }
++++
+title = "Tomato Sauce"
++++
 
 This recipe is God-Tier, but it’s also very delicious. Make it on a good day, or
 if you’ve got guests, or maybe just to treat yourself.
@@ -12,23 +14,23 @@ if you’ve got guests, or maybe just to treat yourself.
 - Salt
 
 **Preparation**
-< Cook pasta according to the package directions. See
+- Cook pasta according to the package directions. See
 _Pasta Variations_ for more pasta-related witty banter
 and maybe some cooking advice.
 
-< Five minutes before pasta is finished cooking, add
+- Five minutes before pasta is finished cooking, add
 two handfuls of cherry tomatoes (maybe 6–8 toma-
 toes) to the boiling water.
 
-< Drain pasta and tomatoes.
+- Drain pasta and tomatoes.
 
-< Drizzle with olive oil.
+- Drizzle with olive oil.
 
-< Add a bit of salt.
+- Add a bit of salt.
 
-< Stir.
+- Stir.
 
-< Squish tomatoes a little before eating.
+- Squish tomatoes a little before eating.
 
 ```
 Unless Cam from The Devil You Know ate

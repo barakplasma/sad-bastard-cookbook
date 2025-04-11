@@ -1,63 +1,63 @@
-## Oatmeal Variations }
++++
+title = "Oatmeal Variations"
++++
 
 **Core Ingredients**
-< Instant oatmeal
+- Instant oatmeal
 
-< Boiling water
+- Boiling water
 
 **Preparation**
-< Take a single-serving package of instant oatmeal. Realistically, take two
+- Take a single-serving package of instant oatmeal. Realistically, take two
 of them at once.
 
-< Pour into a bowl.
+- Pour into a bowl.
 
-< Pour boiling water over the oatmeal.
+- Pour boiling water over the oatmeal.
 
-< Wait?
+- Wait?
 
-< Stir.
+- Stir.
 
-< Enjoy?
+- Enjoy?
 
 **Mid-Tier Preparation**
-< You can buy a full bag of instant oatmeal, you don’t have to buy it in
+- You can buy a full bag of instant oatmeal, you don’t have to buy it in
 single-serve packs.
 
-< You have to add your own flavourings and measure out servings.
+- You have to add your own flavourings and measure out servings.
 
-< But it’s much cheaper.
+- But it’s much cheaper.
 
-< And you don’t have to measure very well, just eyeball it.
+- And you don’t have to measure very well, just eyeball it.
 
 **Variations**
 Add some or all of these to cooked oatmeal.
 
-< Milk or plant-milk
+- Milk or plant-milk
 
-< Yogurt (or plant-yogurt)
+- Yogurt (or plant-yogurt)
 
-< Candy
+- Candy
 
-< Peanut butter
+- Peanut butter
 
-< Nuts
+- Nuts
 
 
-```
-THE SAD BASTARD COOKBOOK
-```
-< Seeds
 
-< Dried fruit
+- Seeds
 
-< Fresh fruit
+- Dried fruit
 
-< Cinnamon powder
+- Fresh fruit
 
-< Sugar
+- Cinnamon powder
 
-< Honey
+- Sugar
 
-< Maple syrup
+- Honey
 
-< Jam
+- Maple syrup
+
+- Jam

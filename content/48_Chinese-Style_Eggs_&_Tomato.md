@@ -1,36 +1,38 @@
-## Chinese-Style Eggs & Tomato
++++
+title = "Chinese-Style Eggs & Tomato"
++++
 
 **Core Ingredients**
-< Eggs
+- Eggs
 
-< Chopped tomatoes
+- Chopped tomatoes
 
-< Chopped garlic
+- Chopped garlic
 
-< Salt
+- Salt
 
-< Oil
+- Oil
 
-< Rice
+- Rice
 
 **Preparation**
-< Add oil to a fry pan and turn it to low or medium heat.
+- Add oil to a fry pan and turn it to low or medium heat.
 
-< Add chopped garlic to the fry pan.
+- Add chopped garlic to the fry pan.
 
-< Add eggs to the fry pan and stir them around so they become scrambled
+- Add eggs to the fry pan and stir them around so they become scrambled
 eggs.
 
-< Add chopped tomatoes to fry pan and stir around so they get a bit soft.
+- Add chopped tomatoes to fry pan and stir around so they get a bit soft.
 
-< Add salt. More than a pinch.
+- Add salt. More than a pinch.
 
-< Serve over rice.
+- Serve over rice.
 
 **Variations**
-< Add soy sauce. Soy sauce is salty, so taste test before you add infinite salt
+- Add soy sauce. Soy sauce is salty, so taste test before you add infinite salt
 and infinite soy sauce to the same dish.
 
-< Add sesame oil.
+- Add sesame oil.
 
-< Add Shaoxing wine.
+- Add Shaoxing wine.

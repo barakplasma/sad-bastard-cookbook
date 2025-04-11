@@ -1,4 +1,6 @@
-## Couscous Variations }
++++
+title = "Couscous Variations"
++++
 
 You can think of couscous like instant rice or instant noodles that come in
 a different shape. You can make it with only a kettle, a bowl, and a spoon.
@@ -7,18 +9,18 @@ Most of the things that go well with rice or noodles will also taste good with
 couscous. Our personal favourite is to add Moroccan-style flavourings.
 
 **Core Ingredients**
-< Couscous
+- Couscous
 
-< Boiling water
+- Boiling water
 
 **Preparation**
-< Boil the kettle.
+- Boil the kettle.
 
-< Put some couscous in a bowl.
+- Put some couscous in a bowl.
 
-< Add boiling water until it just covers the couscous + maybe 1 millimetre.
+- Add boiling water until it just covers the couscous + maybe 1 millimetre.
 
-< Cover the bowl, maybe.
+- Cover the bowl, maybe.
 _You can cover the bowl in
 cling wrap to keep the heat
 in, if you can find the end of
@@ -29,11 +31,11 @@ got a clean plate. Fuck it.
 Don’t put anything on it.
 It’ll cook well enough._
 
-< Wait until the water
+- Wait until the water
 looks like it’s absorbed,
 then fluff it with a fork.
 
-< Consume.
+- Consume.
 
 ```
 If you’re bad at measurement
@@ -49,14 +51,14 @@ FOOD YOU CAN MAKE SO YOU DON’T DIE
 Add some or all of these ingredients, depending on what’s in your kitchen.
 Spices can be added before or after cooking.
 
-< Dried raisins
+- Dried raisins
 
-< Dried nuts
+- Dried nuts
 
-< Hard-boiled eggs
+- Hard-boiled eggs
 
-< Salt
+- Salt
 
-< Spices: cinnamon powder, cumin powder, ginger powder.
+- Spices: cinnamon powder, cumin powder, ginger powder.
 
-< Scoop some hummus on top.
+- Scoop some hummus on top.

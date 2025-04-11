@@ -1,36 +1,38 @@
-## Tanzanian Braised Coconut Cabbage }
++++
+title = "Tanzanian Braised Coconut Cabbage"
++++
 
 This is the kind of real recipe which has real measurements. Feel free to
 ignore them. We do.
 
 **Core Ingredients**
-< One red onion. The colour is nice but not essential.
+- One red onion. The colour is nice but not essential.
 
-< Cooking oil (¼ cup or a few glugs from the bottle)
+- Cooking oil (¼ cup or a few glugs from the bottle)
 
-< Cabbage (whole cabbage, ideally pre-cut into 1-inch wedges)
+- Cabbage (whole cabbage, ideally pre-cut into 1-inch wedges)
 
-< Coconut milk (1 cup but realistically just put in the whole can)
+- Coconut milk (1 cup but realistically just put in the whole can)
 
-< Salt
+- Salt
 
-< Pepper
+- Pepper
 
 **Preparation**
-< Chop a red onion, unless you bought pre-chopped onion.
+- Chop a red onion, unless you bought pre-chopped onion.
 
-< Chop a cabbage into pieces, unless you were able to buy a pre-chopped
+- Chop a cabbage into pieces, unless you were able to buy a pre-chopped
 cabbage.
 
-< In a large saucepan, sauté onions in all the oil until soft.
+- In a large saucepan, sauté onions in all the oil until soft.
 
-< Add cabbage and cook, stirring, until cabbage loses its crispness.
+- Add cabbage and cook, stirring, until cabbage loses its crispness.
 
-< Stir in coconut milk and season with salt and pepper.
+- Stir in coconut milk and season with salt and pepper.
 
-< Simmer for 5 minutes.
+- Simmer for 5 minutes.
 
 **Variations**
-< You can make this with most other vegetables, fresh or frozen.
+- You can make this with most other vegetables, fresh or frozen.
 
-< Serve with _Rice_ or _Couscous_.
+- Serve with _Rice_ or _Couscous_.

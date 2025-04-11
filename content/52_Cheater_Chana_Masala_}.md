@@ -1,23 +1,25 @@
-## Cheater Chana Masala }................................................................................................
++++
+title = "Cheater Chana Masala }................................................................................................"
++++
 
 **Core Ingredients**
-< 1 jar tikka masala sauce
+- 1 jar tikka masala sauce
 
-< 1 can chickpeas
+- 1 can chickpeas
 
 **Preparation**
-< Drain and rinse canned chickpeas.
+- Drain and rinse canned chickpeas.
 
-< Pour into a pot with the jar of tikka masala sauce.
+- Pour into a pot with the jar of tikka masala sauce.
 
-< Simmer until thickened.
+- Simmer until thickened.
 
 **Variations**
-< Slice in tomatoes, peppers, or potatoes if you have the spoons for veg.
+- Slice in tomatoes, peppers, or potatoes if you have the spoons for veg.
 
-< Serve over _Rice_ or _Couscous._
+- Serve over _Rice_ or _Couscous._
 
 **Mid-Tier**
-< Pre-made sauce can be expensive. A can of chopped tomatoes with some
+- Pre-made sauce can be expensive. A can of chopped tomatoes with some
 spices is usually much cheaper. We recommend adding a lot of curry
 powder, a pinch of salt, and a pinch of sugar.

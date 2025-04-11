@@ -1,4 +1,6 @@
-## Classic Ramen }
++++
+title = "Classic Ramen"
++++
 
 _Sometimes called instant noodles._
 
@@ -19,18 +21,18 @@ We recommend swapping up your ingredients
 so you don’t get bored of them.
 
 **Core Ingredients**
-< Pack of ramen, a.k.a. instant noodles
+- Pack of ramen, a.k.a. instant noodles
 
-< Boiling water
+- Boiling water
 
 **Preparation I: Stove**
-< Dump the ingredients in a pot as the water is boiling, then mix it up.
+- Dump the ingredients in a pot as the water is boiling, then mix it up.
 
 **Preparation II: Kettle**
-< Boil the water in the kettle, add the boiling water, noodles, and flavour
+- Boil the water in the kettle, add the boiling water, noodles, and flavour
 package to a bowl, and mix it up.
 
-< Note that the water will be hot enough to cook the noodles but might not
+- Note that the water will be hot enough to cook the noodles but might not
 defrost any frozen veg that you add. This is why you have a microwave.
 
 ```
@@ -41,41 +43,39 @@ lifetime to select your own
 favourite.
 ```
 
-```
-THE SAD BASTARD COOKBOOK
-```
-< Also note that any measurements on the side of the package are a sug-
+
+- Also note that any measurements on the side of the package are a sug-
 gestion, not a rule.
 
 **Preparation III: Microwave**
-< Combine water and ramen in bowl.
+- Combine water and ramen in bowl.
 
-< Microwave for 1 min. See if it’s cooked.
+- Microwave for 1 min. See if it’s cooked.
 
-< If not, microwave another minute.
+- If not, microwave another minute.
 
-< Repeat until cooked.
+- Repeat until cooked.
 
 **Bottom-Tier Ingredients**
 These are things you can add that are probably somewhere in your home right now.
 
-< Wilty vegetables. If it’s looking sad in the fridge, it will probably taste
+- Wilty vegetables. If it’s looking sad in the fridge, it will probably taste
 okay once hot water is added.
 
-< Soy sauce in packets from your last takeout.
+- Soy sauce in packets from your last takeout.
 
-< Hot sauce in packets from your last takeout.
+- Hot sauce in packets from your last takeout.
 
-< Whatever spices you sweep up from the bottom of your cupboard.
+- Whatever spices you sweep up from the bottom of your cupboard.
 
-< You can rawdog it from the package if there’s nothing else.
+- You can rawdog it from the package if there’s nothing else.
 
 **Mid-Tier Ingredients**
 If you add these, it’ll taste good, and you likely have at least one.
 
-< Egg*
+- Egg*
 
-< The good kind of soy sauce
+- The good kind of soy sauce
 
 * _A note on the humble egg. There are endless ways to add egg to ramen. Hard-boiled,
 scrambled, or fried—they’re all delicious. Look for these recipes in_ The Humble Egg.
@@ -90,11 +90,11 @@ stove, then just keep heating until the egg is cooked._
 ```
 FOOD YOU CAN MAKE SO YOU DON’T DIE
 ```
-< Sriracha
+- Sriracha
 
-< Frozen vegetables
+- Frozen vegetables
 
-< Fresh vegetables
+- Fresh vegetables
 
 **God-Tier Ingredients**
 Adding any of these elevates your ramen to next-level shit that tastes
@@ -102,25 +102,25 @@ like you’re a fancy lady who went to a restaurant instead of a sad sack
 who is crying in front of your TV. We recommend stocking up in between
 depressive episodes, especially for things that don’t go bad.
 
-< Garlic
+- Garlic
 
-< Onion**
+- Onion**
 
-< Ginger
+- Ginger
 
-< Chilies
+- Chilies
 
-< Kimchi
+- Kimchi
 
-< Seaweed
+- Seaweed
 
-< Tofu
+- Tofu
 
-< Canned baby corn
+- Canned baby corn
 
-< Sesame oil
+- Sesame oil
 
-< Hash browns. _Hash
+- Hash browns. _Hash
 browns are delicious in
 ramen and we don’t know
 why. You have to cook
@@ -137,17 +137,15 @@ until brown. That recipe is not for when you have depression, and they will cook
 fine alongside the rest of the ramen as you go._
 
 
-```
-THE SAD BASTARD COOKBOOK
-```
-< Shiitake mushrooms. These come dried, so you need to rehydrate them.
+
+- Shiitake mushrooms. These come dried, so you need to rehydrate them.
 Put them in a jar of water, put that in the fridge, come back to it in a day
 or three. Chop up the mushrooms. You probably don’t want to eat the
 stem since it will never get soft, but the cap is delicious. The liquid also
 makes great stock to add flavour to the ramen soup—use it instead of
 water.
 
-< You can do this dried mushroom trick with dried seaweed too. Mix them
+- You can do this dried mushroom trick with dried seaweed too. Mix them
 together in the jar.
 
 _A word to the wise: Different types of ramen vary as to the vegan-ness, and even

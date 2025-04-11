@@ -1,29 +1,31 @@
-## Smoothie Variations }
++++
+title = "Smoothie Variations"
++++
 
 Smoothies are excellent for those depressive episodes where you’re too
 exhausted to function, as you can get calories and nutrients into your body
 without even bothering to chew.
 
 **Core Ingredients and Supplies**
-< Blender
+- Blender
 
-< Fruit, like raspberries, blackberries, or strawberries. _We particularly rec-
+- Fruit, like raspberries, blackberries, or strawberries. _We particularly rec-
 ommend frozen fruit, as it’s cheaper and lasts longer, and will make the smoothie
 cold and refreshing._
 
-< Juice or milk or some other liquid
+- Juice or milk or some other liquid
 
 **Preparation**
-< Put fruit in the blender.
+- Put fruit in the blender.
 
-< Add some liquid.
+- Add some liquid.
 
-< Blend.
+- Blend.
 
-< If it’s too thick to blend, or if you want it less thick when you drink it,
+- If it’s too thick to blend, or if you want it less thick when you drink it,
 add more liquid.
 
-< If it’s not sweet enough, add sugar or honey or banana or something else
+- If it’s not sweet enough, add sugar or honey or banana or something else
 that’s sweet.
 
 **Variations**
@@ -31,39 +33,39 @@ You can put almost anything in a smoothie. Will it blend? If you have a good
 blender, yes. Will it taste good? We leave this question as an exercise for the
 Reader.
 
-< Banana, fresh
+- Banana, fresh
 
-< Banana which you put in the freezer when you realised it was going
+- Banana which you put in the freezer when you realised it was going
 black. You need to peel it, but you don’t need to defrost it before you
 blend it.
 
-< Frozen fruit
+- Frozen fruit
 
 
 ```
 FOOD YOU CAN MAKE SO YOU DON’T DIE
 ```
-< Fresh fruit
+- Fresh fruit
 
-< Yogurt
+- Yogurt
 
-< Fresh or frozen avocado??
+- Fresh or frozen avocado??
 
-< Fresh or frozen spinach???
+- Fresh or frozen spinach???
 
-< Protein powder
+- Protein powder
 
-< Chocolate powder
+- Chocolate powder
 
-< Peanut butter
+- Peanut butter
 
-< Sugar
+- Sugar
 
-< Honey
+- Honey
 
-< Maple syrup
+- Maple syrup
 
-< Other?????
+- Other?????
 
 _Pro-tip: Washing blenders is really annoying unless you rinse them off right away
 when you’re done using them. If you don’t have the energy for this, consider letting

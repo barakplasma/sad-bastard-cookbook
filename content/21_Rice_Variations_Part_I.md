@@ -1,1 +1,4 @@
-## Rice Variations Part I:
++++
+title = "Rice Variations Part I:"
++++
+

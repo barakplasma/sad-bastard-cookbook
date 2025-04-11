@@ -1,20 +1,22 @@
-## Pasta in a Rice Cooker }
++++
+title = "Pasta in a Rice Cooker"
++++
 
 **Core Ingredients**
-< Pasta
+- Pasta
 
-< Water
+- Water
 
-< Sauce
+- Sauce
 
 **Preparation**
-< Add equal parts pasta and water to the rice cooker. Maybe a cup of each.
+- Add equal parts pasta and water to the rice cooker. Maybe a cup of each.
 
-< Push down on the start lever, then lie back in bed.
+- Push down on the start lever, then lie back in bed.
 
-< When the rice cooker pops to show it is done, dump in some pasta sauce.
+- When the rice cooker pops to show it is done, dump in some pasta sauce.
 
-< Pick up the rice cooker bowl with a towel, and eat right out of it.
+- Pick up the rice cooker bowl with a towel, and eat right out of it.
 
 **Variations**
-< Add some shredded cheese if that’s your style.
+- Add some shredded cheese if that’s your style.
