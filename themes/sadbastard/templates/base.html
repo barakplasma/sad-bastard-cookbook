@@ -11,13 +11,10 @@
 <body>
     <header>
         <nav>
-            {% if current_path != "toc.md" %}
-                <a href="{{ get_page(path='toc.md') }}">Contents</a>
-            {% endif %}
+                <a href="{{ get_page(path='table-of-contents.md') }}">Contents</a>
 
-            {% if current_path == "toc.md" %}
                 <a href="{{ config.base_url | safe }}">Home</a>
-            {% endif %}
+
         </nav>
     </header>
 
@@ -27,7 +24,7 @@
         {% if current_path != "toc.md" %}
             <nav>
                 <ul>
-                    <li><a href="{{ get_page(path='toc.md') }}" role="button">↑ Contents</a></li>
+                    <li><a href="{{ get_page(path='table-of-contents.md') }}" role="button">↑ Contents</a></li>
                 </ul>
             </nav>
         {% endif %}
