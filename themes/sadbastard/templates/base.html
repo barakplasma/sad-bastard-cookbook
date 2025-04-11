@@ -7,6 +7,8 @@
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
     <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css">
+    <script type="text/javascript" src="{{ get_url(path='elasticlunr.min.js') }}"></script>
+    <script type="text/javascript" src="{{ get_url(path='search_index.en.js') }}"></script>
     {% block extra_head %}{% endblock extra_head %}
 </head>
 
@@ -14,10 +16,14 @@
     <header>
         <nav>
             <ul>
-                <li><a href="{{ config.base_url | safe }}">
-                        <h1>The Sad Bastard Cookbook</h1>
-                        <h6>Food you can make so you don’t die</h6>
-                    </a></li>
+                <li>
+                    <a href="{{ config.base_url | safe }}">
+                        <hgroup>
+                            <h1>The Sad Bastard Cookbook</h1>
+                            <h6>Food you can make so you don’t die</h6>
+                        </hgroup>
+                    </a>
+                </li>
             </ul>
             <ul>
                 <li><a href="https://mybook.to/MIUiKB">Buy Print Copy</a></li>

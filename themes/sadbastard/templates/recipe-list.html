@@ -2,14 +2,15 @@
 
 {% block content %}
 <nav aria-label="breadcrumb">
-    <ul>
-      <li><a href="{{ config.base_url | safe }}">Home</a></li>
-      <li>Recipes</li>
-    </ul>
-  </nav>
+  <ul>
+    <li><a href="{{ config.base_url | safe }}">Home</a></li>
+    <li>{{ section.components[0] | title }}</li>
+  </ul>
+</nav>
+
 <ul>
-    {% for page in section.pages %}
-    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-    {% endfor %}
+  {% for page in section.pages %}
+  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  {% endfor %}
 </ul>
 {% endblock content %}
