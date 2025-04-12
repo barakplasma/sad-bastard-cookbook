@@ -6,5 +6,22 @@
         <div id="my-pdf"></div>
         <script src="https://unpkg.com/pdfobject"></script>
         <script>PDFObject.embed("{{ pdf_url }}", "#my-pdf");</script>
+
+    <iframe id="pdf-viewer"></iframe>
+
+    <script>
+        // URL of your PDF file (must be accessible from the web)
+        const pdfUrl = "{{ pdf_url }}"
+
+        // Encode the PDF URL for use as a query parameter
+        const encodedPdfUrl = encodeURIComponent(pdfUrl);
+
+        // Construct the viewer URL
+        const viewerUrl = `https://mozilla.github.io/pdf.js/web/viewer.html?file=${encodedPdfUrl}`;
+
+        // Set the iframe source
+        document.getElementById('pdf-viewer').src = viewerUrl;
+    </script>
+
     alt : <a href="{{ pdf_url }}">SAD-BASTARD-2025.pdf</a>
 </object>
