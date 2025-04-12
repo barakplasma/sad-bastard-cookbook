@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://barakplasma.github.io/sad-bastard-cookbook/sitemap.xml
