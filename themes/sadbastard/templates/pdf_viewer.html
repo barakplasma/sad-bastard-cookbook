@@ -1,11 +1,5 @@
 {% set pdf_url = get_url(path="SAD-BASTARD-2025.pdf") %}
 <object data="{{ pdf_url }}" type="application/pdf" width="100%" height="1000">
-    <style>
-        .pdfobject-container { height: 500px; border: 1px solid #ccc; }
-        </style>
-        <div id="my-pdf"></div>
-        <script src="https://unpkg.com/pdfobject"></script>
-        <script>PDFObject.embed("{{ pdf_url }}", "#my-pdf");</script>
 
     <iframe id="pdf-viewer"></iframe>
 
@@ -22,6 +16,4 @@
         // Set the iframe source
         document.getElementById('pdf-viewer').src = viewerUrl;
     </script>
-
-    alt : <a href="{{ pdf_url }}">SAD-BASTARD-2025.pdf</a>
 </object>
