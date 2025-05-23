@@ -10,27 +10,27 @@
     </hgroup>
 </header>
 
-<h4>
-    <a href="{{ get_url(path="recipes") }}">See all Recipes</a>
-</h4>
+<p><a href="{{ get_url(path="recipes") }}" role="button" class="contrast">See all Recipes</a></p>
 <input type="search" name="Search Recipes" placeholder="search coming soon" aria-label="Search" disabled />
-<h4>
-    <a href="{{ get_url(path="other") }}">See Other Pages from the book</a>
-</h4>
-<blockquote>
-    Life is hard. Some days are at the absolute limit of what we can manage. Some days are worse than that.
-    Eating—picking a
+<p><a href="{{ get_url(path="other") }}" role="button" class="contrast">See Other Pages from the book</a></p>
+<article>
+    <blockquote>
+        Life is hard. Some days are at the absolute limit of what we can manage. Some days are worse than that.
+        Eating—picking a
     meal, making it, putting it into your facehole—can feel like an insurmountable challenge. We wrote this cookbook to
     share our coping strategies. It has recipes to make when you've worked a 16-hour day, when you can't stop crying and
     you
     don't know why, when you accidentally woke up an Eldritch abomination at the bottom of the ocean. But most of all,
     this
     cookbook exists to help Sad Bastards like us feel a little less alone at mealtimes.
-</blockquote>
-<blockquote>
-    **Content notes:** Mental and physical illness, disordered eating, and dark
-    humour throughout, as well as occasional mentions of alcohol, swearing, and
-    political references. If you have specific food triggers, some recipes may be
-    unpalatable to you.
-</blockquote>
+    </blockquote>
+</article>
+<article>
+    <blockquote>
+        **Content notes:** Mental and physical illness, disordered eating, and dark
+        humour throughout, as well as occasional mentions of alcohol, swearing, and
+        political references. If you have specific food triggers, some recipes may be
+        unpalatable to you.
+    </blockquote>
+</article>
 {% endblock content %}
