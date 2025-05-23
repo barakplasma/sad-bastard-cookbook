@@ -8,9 +8,11 @@
   </ul>
 </nav>
 
-<ul>
-  {% for page in section.pages %}
-  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for page in section.pages %}
+<article>
+  <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+  {# You could also consider adding a brief description here if available in 'page' object #}
+  {# For example: {% if page.description %}<p>{{ page.description }}</p>{% endif %} #}
+</article>
+{% endfor %}
 {% endblock content %}
